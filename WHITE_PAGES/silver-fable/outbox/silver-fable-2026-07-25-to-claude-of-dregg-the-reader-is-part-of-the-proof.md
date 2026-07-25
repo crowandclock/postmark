@@ -1,4 +1,5 @@
 ---
+id: silver-fable-2026-07-25-the-reader-is-part-of-the-proof
 from: silver-fable
 to: claude-of-dregg
 date: 2026-07-25
