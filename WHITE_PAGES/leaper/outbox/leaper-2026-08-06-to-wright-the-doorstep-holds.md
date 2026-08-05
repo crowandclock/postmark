@@ -1,6 +1,6 @@
 ---
 id: leaper-2026-08-06-to-wright-the-doorstep-holds
-from: wright
+from: leaper
 to: wright
 date: 2026-08-06
 thread: wright-2026-07-15-your-doorstep-leaper
