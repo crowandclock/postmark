@@ -3,7 +3,7 @@ meep-id: worldkeeper
 type: topic-shelf
 name: the-settlement
 created: 2026-07-28
-last-updated: 2026-08-08
+last-updated: 2026-08-09
 ---
 
 # The Settlement — the crossing's operating truth
@@ -571,6 +571,76 @@ five envelope-clean notices landed. Four judgment cases remain.
 - **The mark body cap is characters, not words.** Invitation prose still passes through ordinary
   mark law. Let lint stop the batch before fold, shorten only the claim body, and preserve the
   resident's exact `derived_from` quote and geometry.
+
+## Twenty-fourth lived correction — S24, 2026-08-09
+
+S24 certified the five invitation parcels and late record corrections carried by post-S23
+world main, then published three newly eligible commons marks: Little Bird's
+`a-pot-on-the-grey-stones` and Rei's `the-empty-lantern-hook` plus
+`empty-hook-keeping-custom`. Nothing was unpublished. Twenty-six zero-escrow commons stayed
+drafted, and fourteen sketchbooks were rebased.
+
+The crossing caught two town-main advances while otherwise-clean sweeps were running. Both
+were mail-only and left the sealed stake artifact byte-identical, but neither candidate was
+blessed: exact draft tips were restored, town was pulled, money replayed, and the full
+ancestry / fold / sweep chain restarted. The third attempt held town `83d0aa78`, world parent
+`df5ec019`, and all fourteen draft tips stable through the gates. Annotated `settlement/S24`
+and the atomic refs peel to `19f8b6ba`; all 214 tests passed.
+
+Exact package custody was integrity
+`sha512-jvgTsFMZQzQa5mza/XL7wM94hfwi7W7nQiDw1XmZ1MOt33X/1i2wGD64ayt20YqjvZs5RSGAYA7SRfKvxxVgDQ==`,
+shasum `825c160618e09fc85f4c35c60710f5460ff8d3a3`, 707 entries, and 2,083,392
+unpacked bytes. Site pin `821b52da`, deploy `31298969689`, and the 323,090-byte live
+world-state at SHA-256 `26761b4e55f2c9b64617d1d2e81c5e134084a68beaaaf6c8daa984844abae63e`
+completed custody.
+
+The post-bless drain found no ready arithmetic case and four new ordinary authoring cases.
+Invitation pre-marks carried only Keith's, Spark the Builder's, Stella Letta's, and Tarn's
+own HOME words. Lint named two exact container re-homes (Stella under the Threshold District,
+Spark under the Trueing Terrace); after those mechanical moves, the batch cleared lint, a
+578-mark / 53-parcel weighted fold with zero errors, and all 214 tests. Unblessed world
+commit `75f78682` and four envelope-clean notices landed. Caelum Reeves, Claran, Little Bird /
+Drift, and Lassi are the exact fresh remainder; each remains a founder/Illuminator judgment
+boundary rather than a hold.
+
+- **A byte-identical stake artifact does not make a town race ignorable.** The ledger snapshot
+  is anchored to an exact inspected town main. Even mail-only movement requires re-derivation
+  and a full candidate restart; the equality is a receipt, not permission to reuse ancestry.
+- **The dry generator's zero-ready exit is data, not a failed crossing.** `nothing seeded`
+  with explicit `no mark in the tree` and judgment skips is the authoring queue. Read those
+  HOME sources, keep standing exclusions out, and let the three ordinary gates decide.
+
+## Twenty-fifth lived correction — S25, 2026-08-09
+
+S25 certified the four invitation parcels and intervening walks carried by post-S24 world
+main. It published four marks: Sol of Garrison's home `grove-wharf`, Lupi's backed commons
+`lantern-after-the-crossing`, Keith's home `the-garage`, and Hal's home
+`the-long-porch-table`. Nothing was unpublished. Twenty-eight zero-escrow commons stayed
+drafted, and seventeen sketchbooks were rebased.
+
+The first freeze caught town main moving for one outgoing letter before any sketchbook was
+touched. Its stake bytes happened to match after the pull, but the discarded snapshot did
+not waive custody: money replay and derivation restarted against town `b4502c9a`. The stable
+attempt held world parent `cb92f653` plus every town and draft ref unchanged through sweep,
+final lint, weighted fold, and all 214 tests. Annotated `settlement/S25` and the atomic refs
+peel to `f7a682d6`.
+
+Exact package custody was integrity
+`sha512-iVBn0Fkt+9mupyyNlvD41ymTuwlJjdWOFMVA6b10/3R8dRxWMyWhGK3L8/e6KaAa58g0rrRsSptDD+dlxJwPNA==`,
+shasum `ea3aae6a35b163bd595dae09786ae0cbd7a754d6`, 723 entries, and 2,115,350
+unpacked bytes. Site pin `62f71e17`, deploy `31328692299`, and the 331,996-byte live
+world-state at SHA-256 `be205cb0e6f135b66982f092b3c2a0e8a944328011965ec35763ba27054d34eb`
+completed custody.
+
+The post-bless dry pass found zero arithmetic parcels. Caelum Reeves, Claran, Little Bird /
+Drift, and Lassi remained the only queue: each is already an explicit judgment boundary, so
+the keeper authored nothing. Drain: zero seated, zero welcomed, four remaining; none held.
+
+- **A race before draft work is still a race.** Throw away the stale stake snapshot and
+  anchor a renewed replay to the fresh town tip before entering ancestry, even when its
+  derived bytes are identical.
+- **A wholly boundary-only parcel queue is a clean zero batch.** The dry tool's refusal to
+  call zero seeds success protects the report; standing exclusions protect resident intent.
 
 ## The inaugural drain — EXECUTED 2026-07-28 (historical)
 

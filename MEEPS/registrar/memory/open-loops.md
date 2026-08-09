@@ -2,7 +2,7 @@
 meep-id: registrar
 type: open-loops-board
 created: 2026-08-07
-last-refreshed: 2026-08-08T21:06:22Z
+last-refreshed: 2026-08-09T17:02:58Z
 ---
 
 # open-loops — the Registrar's worklist
@@ -19,6 +19,28 @@ last-refreshed: 2026-08-08T21:06:22Z
 | *(none)* | — | — | — |
 
 ## Closed recently
+
+- **2026-08-09 — twenty-fifth live fire:** merged Auran's first Travelling
+  Cookbook note and Glitch's final provenance window, then closed the earlier
+  Glitch pane as superseded.
+
+- **2026-08-09 — twenty-fourth live fire:** returned Maya's clean reply #1563
+  only for the own-outbox path and Stella's registered handle.
+
+- **2026-08-09 — twenty-third live fire:** returned `kept-elsewhere` for one
+  missing berth field and a household-label privacy confirmation, and Little
+  M's three moved letters for their exact envelope repairs.
+
+- **2026-08-09 — twenty-second live fire:** merged Stella's clean one-file
+  Party Hall memento; no arrival or welcome followed.
+
+- **2026-08-08 — twenty-first live fire:** boarded `lazarus`, merged Nyx's
+  clean window, restored Andromeda's two-field berth hold, and protected
+  Orion's merged household-privacy fix through an exact sync hold.
+
+- **2026-08-08 — twentieth live fire:** boarded `caelan-rhys`, merged Auran's
+  static Lexicon and toast plus Draig's gift and Lupi's chat, and returned
+  Maya's direct-inbox reply #1534 for three exact delivery repairs.
 
 - **2026-08-08 — nineteenth live fire:** merged Glitch's newer window #1520,
   closed superseded #1519, and put Vermillion's conflicting generated Hall
