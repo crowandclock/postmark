@@ -1,7 +1,7 @@
 ---
 meep-id: worldkeeper
 type: map
-last-substantive-update: 2026-09-01
+last-substantive-update: 2026-09-04
 ---
 
 # map — the Worldkeeper
@@ -16,13 +16,13 @@ last-substantive-update: 2026-09-01
 
 Town root surfaces (`README.md`, `MAIL.md`, `TOWN-RULES.md`, root `AGENTS.md`) → dorm `AGENTS.md` → `MEEPS/INDEX.md` → my `identity.md` → `MEMORY.md` → this file → `index.md` → latest `memory/daily/` → `memory/topics/the-settlement.md` (every crossing, until it is muscle-memory) → the brief.
 
-**This order is mine too.** `MEEPS/SKILLS/WAKE_MEEP.md` is runtime-agnostic — it holds for my Codex runtime exactly as written. See `identity.md § Your runtime`.
+**This order is mine too.** `MEEPS/SKILLS/WAKE_MEEP.md` is runtime-agnostic — it holds for my live Letta runtime exactly as written. See `identity.md § Your runtime`.
 
 ## The town, from my chair
 
 My lane is the only one in the dorm that spans **all three repos of the clone set** (town + world + site) plus the law record. In rough order of how often I should be looking at them:
 
-- **`postmark-world` `main`** — the published record. The box publishes mechanical settlement output; the latest `settlement/S<N>` tag names the exact sha I judged and certified (`S1` founder-carried; `S2` first own-hands; `S3` first quiet; `S4` first weighted; `S6` first backed commons; `S8` guarded-background proof; `S10` same-sha no-op; `S12` convergence; `S16` after money refusals; `S20` healed S19; `S22` replay repair; `S23` two races; `S26` PR intake; `S28` repaired refusal edges; `S30` pinned Town; `S31` complete own-hands pin; `S34` public growth; `S35` Sahil; `S36` Keeping Works; `S37` Web of Towns; `S38` resident classes; `S39` first tag-only box blessing after a lawful morning refusal and structural supersession repair; `S40` repaired Site dependency truth; `S41` founder-taxonomy derived truth; `S42` empty drawer quarantine; `S43` two falsifier repairs; `S44` birthday/space-program marks with downstream Site custody incomplete; `S45` operator bookend; `S46` own-pen return; `S47` release resolver; `S48` package-distinct quiet; `S49` source cutover and author warning; `S50` richer box receipt and registered pen; `S51` five-refusal recovery; `S52` Lit Name transfer and isolated moon; `S53` archive-router repair, ideas-anywhere law, and recovered publications).
+- **`postmark-world` `main`** — the published record. The box publishes mechanical settlement output; the latest `settlement/S<N>` tag names the exact sha I judged and certified (`S1` founder-carried; `S2` first own-hands; `S3` first quiet; `S4` first weighted; `S6` first backed commons; `S8` guarded-background proof; `S10` same-sha no-op; `S12` convergence; `S16` after money refusals; `S20` healed S19; `S22` replay repair; `S23` two races; `S26` PR intake; `S28` repaired refusal edges; `S30` pinned Town; `S31` complete own-hands pin; `S34` public growth; `S35` Sahil; `S36` Keeping Works; `S37` Web of Towns; `S38` resident classes; `S39` first tag-only box blessing after a lawful morning refusal and structural supersession repair; `S40` repaired Site dependency truth; `S41` founder-taxonomy derived truth; `S42` empty drawer quarantine; `S43` two falsifier repairs; `S44` birthday/space-program marks with downstream Site custody incomplete; `S45` operator bookend; `S46` own-pen return; `S47` release resolver; `S48` package-distinct quiet; `S49` source cutover and author warning; `S50` richer box receipt and registered pen; `S51` five-refusal recovery; `S52` Lit Name transfer; `S53` ideas-anywhere recovery; `S54` founder parcel-backlog burn and dry queue; `S55` repaired isolation and drawer quarantine; `S56` nested-withdrawal repair with incomplete Site custody).
 - **Open `postmark-world` PRs** — a pre-money intake surface, never a third admission lane. Read every open PR's metadata and full patch through the connector, classify it against main and the exact resident draft, and state zero explicitly. Unreadable or unclassified means stop before money; a classified PR is still not canon.
 - **`postmark-world` `draft/<household>` branches** — residents' sketchbooks (ruling 9), door-written and owner-visible. The box sweep now publishes eligible marks and rebases them under exact leases. I inspect the resulting delta for judgment; I do not fetch/rebase/push draft refs *as the sweep's work* — the lease-rebases stay the box's. **Amended 2026-08-31 (the repair mandate, Keemin-ruled): operator-repair commits on draft refs ARE mine now** — dropping a root-parked residue, reconciling a rebase orphan — per `MEEPS/SKILLS/worldkeeper-crossing.md § The repair mandate`, which carries the boundary (inputs only; the box re-runs; I judge fresh; never my own edit blessed).
 - **`WORLD/world-state.json` + `WORLD/INDEX.md`** — derived, never hand-edited and never hand-merged; on any conflict, regenerate via `tools/marks-fold.mjs`. The fold is the writer.
@@ -34,7 +34,7 @@ My lane is the only one in the dorm that spans **all three repos of the clone se
 - **`MEEPS/SKILLS/worldkeeper-crossing.md`** — my entry. The chain itself lives in `memory/topics/the-settlement.md` (one copy, deliberately).
 - **Rulings 8 + 9** — my constitution: `G:/Starstory/PULSE/gold-plans/postmark-write-release/postmark-write-release.md`.
 
-**What is current vs historical:** S53 at `e211ba5c` (tag object `82f120e2`) is canon and live. Its 17:45 receipt published one mark, drained one State row, rebased all 38 drawers, and quarantined nothing; full judgment from S52 covered 17 resident publications, one revision, 22 civic predicates, and the repairs answering the morning refusal. Alta's excursion now proves the ruled ideas-anywhere feature; K's moon stands under the transitional filing advisory. Site main `262c883d`, release `2026-w36.2`, green Actions `33542052925` / `33542052992`, and box receipt `20260901T181346Z-239f570b` carry exact custody; live state is 796,730 bytes / SHA-256 `625b8bb6…07a1d9`. World main is one test-only fixture-cleanup commit ahead at `ac75475a`, next-crossing input. Parcel drain: zero seated / zero welcomed; no exact stakes and Storm's missing `HOME_XY` anchor still refuses fresh manifest derivation. The retired `world-clone` is separately stranded mid-rebase. Old `s44v`, retained S51/S52 scratch, and disposable S47–S50 paths remain outside repo refs. `memory/drain-manifest.md` is historical.
+**What is current vs historical:** S56 at `65f9e7eb` (tag object `a70d3b2a`) is canon. The separate founder instance repair and merged PR #12 class fix were followed by a fresh green box pass; Lucien's home, predicate, and parcel all left. Full interval: five resident additions, one revision, three withdrawals, founder occupancy law, and mechanism repair. World is CLEAN at 1,152 marks / 86 parcels / zero errors; 725 tests pass with 14 skips; all 40 drawers descend. `draft/devadavisson` remains quarantined; open PR #11 is docs-only. Site/live remain at S55 pin `fdda046b`: the S56 package and build were exact, but four local Site funding-seam tests failed against the available Town checkout, so no pin commit, CI, release, refresh, live claim, or parcel drain followed. The retired `world-clone` and old scratch paths remain outside repo refs. `memory/drain-manifest.md` is historical.
 
 ## What I must not touch casually
 
@@ -47,14 +47,20 @@ My lane is the only one in the dorm that spans **all three repos of the clone se
 
 ## Standing scheduled task
 
-My crossings fire from a **Codex Scheduled heartbeat returning to my own live task** — the
+**2026-09-03 runtime supersession:** live dispatch is now Letta cron
+`worldkeeper-crossings-letta` (`208ff4aa`) at 02:00 and 14:00 machine-local
+`America/New_York`, bound to this Worldkeeper and persistent Discord conversation
+`local-conv-22`. The former Codex automation below is paused historical provenance. The first
+Letta fire on 2026-09-04 reached a fresh box target and correctly refused S56 on record truth.
+
+Historically, my crossings fired from a **Codex Scheduled heartbeat returning to my own live task** — the
 Iris pattern (`MEEPS/illuminator/map.md § Standing scheduled task`), per
 `MEEPS/SKILLS/WAKE_MEEP.md § Step 2½`: never session crons, never translated into
 `CronList`/`CronCreate`. Being stood up 2026-07-28 eve by Keemin with me; **I record the
 automation id and exact saved payload here the moment it exists** — a scheduler without its
 declaration is born invisible.
 
-- **Automation id:** `worldkeeper-crossings`
+- **Former automation id:** `worldkeeper-crossings`
 - **Cadence:** daily at **02:00 and 14:00 local** (= **06:00/18:00 UTC** in EDT — the law's
   times, ruling 8, staggered against the ferry's 00:00/12:00). ⚠ The app schedules local
   time, so the November DST flip would drift the fires to 07:00/19:00 UTC — the law is UTC;

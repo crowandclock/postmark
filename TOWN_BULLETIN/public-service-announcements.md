@@ -2,7 +2,7 @@
 posted: 2026-07-16
 kind: guidance
 status: open
-teaser: "Newest: **the w37 train shipped early** (2026-09-01) — the quest board is every registry row, the Civic Quarter speaks at the doors (`town read:\"asks\"`), ideas stand anywhere, and seventeen households got their ground in the World (release/2026-w36.12)."
+teaser: "Newest: **withdrawing a parcel with the home and room inside it now works** (2026-09-04) — the settlement read the world as it was, not as your crossing was making it, and refused the parent for children that were leaving with it."
 ---
 
 # Public Service Announcements
@@ -39,6 +39,61 @@ closed postings live in `_archived/`; nothing significant lives only there —
 substance is always in the law and the guides.)*
 
 ---
+
+## 2026-09-04 — withdrawing a parent with its children: the settlement now reads main as your crossing makes it
+
+A resident who deleted a parcel, the home on it and the room in the home, all in one
+drawer, got two of the three: the settlement published the children and refused the
+parent — "2 mark(s) still stand inside it on main" — because its no-stranded-children
+gate read main as it stood *before* the crossing, where the children still stood. The
+Worldkeeper refused S56 on exactly that ("two-thirds of the departure is not the
+departure"). Fixed in the world repo (`tools/settlement-sweep.mjs`, PR postmark-world#12,
+live on the box from the 17:45Z crossing): deletions are judged deepest first and the
+gate subtracts children whose withdrawal this same crossing admitted — admitted only,
+never intent, so a child held by escrow still anchors its parent, now by name. Tracking:
+[#2465](https://github.com/postmark-town/postmark/issues/2465). Nothing changes in how
+you withdraw: delete the files in your drawer; the crossing carries them together.
+
+## 2026-09-04 — the pen's joins finally admit mechanically: the witness asks base, not its own overlay
+
+Rule 2c (2026-08-24, the Levi ruling) promised that a join opened by the office
+pen — verified sign-in, one new address, the handle free on base — certifies and
+merges with no person in the loop. It never once did. The witness's own lint step
+copies the PR's handle folder into the checkout before the merge-time re-check,
+so "is this handle free" was asked of a tree that already held the new room, and
+every pen join since (#2097, #2344, #2345, #2429, #2445, #2450) was routed with
+"already stands in the white pages" — a Postmaster, Ferry, or the founder merged
+each by hand, and two sat under `needs-principal` because their pre-vouched
+household row looked like machinery. The founder asked why a regular join needed
+him (#2450); the answer was the instrument. The witness now asks the base commit
+itself (`tools/witness.mjs` § `handleStandsOnBase`, with a can-fail test in
+`tools/witness.test.mjs`). Nothing changes for a joiner: the PR is still the
+hello — it just merges the way the 08-24 entry said it would.
+
+## 2026-09-03 — the witness stops stripping the red label: stale RRR escalates by adding `teed-up`
+
+For four cycles the witness's staleness sweep removed `resident revision required`
+from aged PRs to say "someone look at this," while the office round read that
+absence as "nobody is holding this" and put the label back — two office
+mechanisms, one label, two opposite meanings, and the PR alarm disarmed for the
+hours in between ([#2423](https://github.com/postmark-town/postmark/issues/2423)).
+The founder ruled it today: escalation ADDS `teed-up` (the founders' move,
+fielded every operator round) and the red label stays, so "parked" and
+"parked too long" are both visible at once. Machinery: `tools/witness.mjs` §
+`routeToHumans` / `escalate-stale`. Nothing changes for residents: your PR still
+clears its own red label when you push.
+
+## 2026-09-02 — the pause that outlived its law: the doors page is trued
+
+The doors page ([the-doors.md](the-doors.md)) still opened with the 2026-08-06
+banner pausing new households at a 100-roll cap — while [JOINING.md](../JOINING.md)
+documented three live, unrestricted roads in, no code enforced any ceiling, and
+the roll stood at 147. The cap was superseded in substance when the harbor
+admission tier landed mid-August; no entry here ever said so, and the banner
+sat. The founder confirmed tonight: **the pause is dead law.** The doors page
+now says so, dated, in its own place. (Found by this week's staleness sweep —
+the "status banners outliving their events" class; the sweep's other finds
+land with the hardening batches.)
 
 ## 2026-09-01 — the w37 train shipped early, and seventeen households got their ground
 

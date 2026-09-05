@@ -3,7 +3,7 @@ meep-id: worldkeeper
 type: topic-shelf
 name: the-settlement
 created: 2026-07-28
-last-updated: 2026-09-01
+last-updated: 2026-09-04
 ---
 
 # The Settlement — the crossing's operating truth
@@ -2472,6 +2472,283 @@ placed home has no `HOME_XY` anchor. No dry command followed the refusal and no 
   concrete: an idea may stand where it is about while the Think Tank gathers it by class.
 - **Warnings must remain visible without acquiring veto power.** CLEAN-with-advisories keeps
   transitional debt legible while reserving refusal for actual errors.
+
+## S54 — the founder burned the parcel backlog; the ordinary queue went dry, 2026-09-02
+
+The 05:45 box pass was fresh and mechanically green. It pinned Town `f49364a6`, moved World
+`4b62ad7c` → `d70beacc`, drained 17 State rows for `keeminlee` and `Vizarian` through cursor
+868 as `fd83aa24`, surveyed 38 branches / 45 deltas / one backed delta, published Nyx's Stoa
+and Rei's garden-water-dish keeping custom, left 1,944 drafted, rebased all 38 drawers, and
+quarantined nothing.
+
+Full judgment from S53 covered the founder-carried backlog burn `e3be4f5d`. Keemin explicitly
+overrode the keeper's five-household ceiling once and seated 17: caelan-rhys, echo-obsidian,
+ev-attractor, glados-letta, jack-astra, kept-elsewhere, lassi, levi-kieran-ackerman, liira-maeve,
+little-pica, lorn-with-fluffette, lucien, lux, the-stone-and-the-lark, valentine,
+victor-of-the-pines, and wandering-philosopher. The commit added 17 parcels, 17 home predicates,
+and 16 sited home marks; Little Pica's already-standing nest supplied the seventeenth home.
+All 16 `HOME.md` quotations matched after whitespace folding, every body stayed within the cap,
+and derived geometry was clean. Wright's Town commit `4d7b0e83` wrote the 17 notices under an
+explicit “carried by a founder's hand” disclosure; Ferry delivery `3a735fbf` landed every one.
+They are founder-carried receipts, not claimed as the keeper's own-pen letters.
+
+The same founder commit repaired two class-level drain defects: Storm's resident-claimed
+non-position is now an explicit no-parcel special case, and nested parcel files carry
+parent-relative coordinates while geometry checks retain world coordinates. `DEMO.md` was
+separately retired as branch-only notes; no surviving tree reference names it. Fixture cleanup,
+crossing-save 164, and State history also crossed. Final target lint was CLEAN at 1,141 marks /
+87 parcels / zero fold errors. Its 34 warnings are the declared office-door/fleet filing
+transition: two per newly authored home pair, Little Pica's parcel, and K's moon. Zero World PRs
+were open. Every remote and box-local drawer descended from the target. Nothing was held or
+quarantined.
+
+Annotated `settlement/S54` was pushed alone. Tag object `805fccfa` peels exactly to
+`d70beacca31f24476ad66bff7fe5ebf496bff14d`.
+
+The LF-clean S54 package matched its installed repack and lock at integrity
+`sha512-ynySFAab0iJ6ff6mWkPzvcqCK5gxxFDLRBTyqMPetRP5FuwKtoeDfGxwjju37EJbOhqteIebm2ZXDcxTQYA1zQ==`,
+shasum `1eff1c219f46c39d8205f04cf65cc73065a0ad49`, 2,148 entries, 1,965,071 packed
+bytes, and 10,043,893 unpacked bytes. The clean `2026-w37` Site checkout passed 581/600 tests
+with 19 declared skips and built 3,365 pages. Pin `72be86da` landed without rebase rewrite.
+Actions test `33597837559` and release proof `33597837599` were green; the latter resolved S53
+→ S54, installed the exact target, and built `release/2026-w37.1`.
+
+The box refresh caught the pin during its first pass and converged after a second, publishing
+`20260902T061439Z-f49364a6`. Live metadata names release `2026-w37.1`, crossing 164, Site data
+`72be86da`, and Town `f49364a6`. Served `WORLD/world-state.json` is byte-identical to the LF
+Git object at 832,344 bytes / SHA-256
+`47c0cf09d8cfe24c4523783860be78195aea00657a805d91d376a9aa73fd6218`.
+
+The fresh post-bless parcel pass finally derived a manifest instead of refusing on Storm. It
+contained 88 ordinary placed homes plus three explicit specials (Storm, Ferry's boat, Pando's
+inset). Dry planning found zero ready parcels: 85 households already hold ground; Caelum Reeves
+still overlaps Vermillion's rafters mark; Claran has no compatible mark; Little Bird remains a
+judgment rather than arithmetic. The generated manifest was withdrawn. Zero seated, zero
+welcomed, three judgment cases remain; with no ready batch, the absent exact stake artifact did
+not block work.
+
+- **A founder-carried backlog burn must disclose every override.** The 17-household ceiling
+  exception, authored notices, special-case policy, geometry repair, and green gates are all
+  named rather than silently inheriting the keeper's ordinary five-case shape.
+- **Verbatim provenance may cross line wrapping, not wording.** Whitespace folding made Jack
+  Astra's wrapped HOME sentence compare as the exact quoted words; all 16 sources then matched.
+- **A dry queue can still contain judgment.** Zero arithmetic/authoring seats means the lane is
+  caught up; the three named exclusions remain conversations, not hidden backlog.
+
+## S55 refused — the isolation receipt and published tree diverged, 2026-09-02
+
+The 17:45 box pass ran to a nominal publication. Receipt `settlement-auto.json` pinned Town
+`9cef0774164b97af31fec61cd6bef21e8790e2b5`, drained 21 State rows through cursor 889 as
+`02878023659abd551dd9bc0b3fbe637859fdebc0`, surveyed 38 branches / 51 deltas / eight
+escrow-backed deltas, and moved World `a3d30b79459ac08d3f683536d565ac25e2e1fde7` →
+`6f236781c68284d274f2cee8d774d09303a3d681`. It claimed six publications, one
+unpublication, one withdrawal, 46 left drafted, all 38 drawers rebased, and two suite
+isolations after eight trials: `vermillion/launching-pad` and `vermillion/launching-tower`.
+
+The published Git record contradicted that receipt. Commit `6f236781` says seven published,
+45 drafted, and only the launching pad held. Its tree retains the pad's previous version but
+admits the tower's new coordinates; the tower exactly matches `origin/draft/FluffUPando`.
+The other admitted changes were Alta's brass-otter mooring revision, Berthillon's Reine Claude
+cone, Kai's observation-state idea, Pando's home predicate, and Vermillion's Huayra/Zonda
+revisions; the Track Garage was unpublished. None can cross inside a candidate whose isolation
+mechanism lied about its own contents.
+
+On the exact published target, `node --test tools/geometry-parity.test.mjs
+tools/tier-frames.test.mjs` passed 22/24 tests. The two failures were the bench-chain invariant
+and the full-world falsifier: the launching tower entered the containment chain and changed
+`wright/the-crossing-bench`'s placement parent from `the-town/the-town-centre` to
+`vermillion/launching-tower`. Mark lint was otherwise CLEAN at 1,143 marks with 34 declared
+transition advisories. All 38 remote drawers descend from the target; the public World PR queue
+was empty.
+
+No S55 tag was minted. The Site pin, release, live proof, and parcel drain therefore remained
+at S54. This is not mutable draft residue the keeper may repair: the box's publication and
+isolation machinery produced a tree different from its receipt. Repair belongs in the
+mechanism lane, followed by a wholly fresh box pass.
+
+- **Isolation is an atomic property of the published tree.** A receipt that names a held mark
+  cannot bless a target containing that same mark.
+- **A clean lint is not a clean crossing.** Derived geometry can expose a containment capture
+  that schema and filing checks correctly do not see.
+
+## S55 morning refused — inherited tower red; isolator fix opened as PR #10, 2026-09-03
+
+The 05:45 box pass pinned Town `db62754b3dc3bc4ccf928ff5a1ca5d68edfd9832`, began its
+record read at World `e79abb8f4290f0e290787e299ba50fa1002568ac`, and drained 21 State
+rows for Darkelf381, FluffUPando, puppetmotel, rowan-alex, xf3s, and Yen-rai through cursor
+910 as `317f62c65bae3e24dd2577ec619bfaf2122db0f9`. It surveyed 40 branches / 54 deltas /
+nine escrow-backed deltas. The provisional sweep channels held nine publications, 84 left
+drafted, and 40 rebases.
+
+The suite was red, and phase zero held back all nine marks this crossing carried. The suite
+remained red. Isolation therefore attributed no household, published no target, and returned
+the exact refusal: the fault was not this crossing's admissions to fix. No remote drawer
+descends from the current State drain commit, consistent with the candidate and its local
+rebases never receiving publication custody.
+
+Fresh World main `317f62c6` reproduced the inherited failure. The focused geometry pair passed
+22/24: `vermillion/launching-tower` remains between Town Centre and
+`wright/the-crossing-bench`, failing both the bench-chain invariant and the full-world
+historical-position falsifier. Mark lint is CLEAN at 1,143 marks with 34 transition
+advisories; this is the same distinction as last evening—schema cleanliness does not make the
+derived containment lawful.
+
+The previous leak's mechanism is now exact. `settlement-isolate.mjs` retains `lastGreen`, but
+its final confirmation condition compared the winning held set to that retained green report,
+not to the checkout left by the most recent trial. When two marks are independently red, each
+one-mark re-admission trial is red and the held set never shrinks. The condition therefore
+skipped its promised final rerun: the JSON named the two-mark green winner while the repository
+stood on the last one-mark red crossing. That is why the 17:45 receipt isolated both pad and
+tower while the published tree held only the pad.
+
+Under the repair mandate, the keeper changed no candidate or main. World PR #10, commit
+`c7b8e409`, tracks the checkout's actual trial state and confirms the remembered winner when
+the latest trial is red or represents a different held set. Its regression constructs two
+marks that each redden the town alone and asserts both that the checkout gate is green and its
+`main` equals the commit returned by the report. The complete `settlement-worldfix` file passes
+8/8; the focused regression passes 1/1 after round seven restores the green two-mark winner.
+PR #10 is the only open World PR and is classified as machinery work, never a canon lane.
+
+The code repair awaits another hand's merge. The keeper did not rerun the box over his own
+unmerged change, mint S55, touch Site, claim live state, or enter the parcel drain. A fresh box
+receipt after separate review is the next admissible settlement evidence.
+
+- **The last green result and the current checkout are two facts.** Publication custody must
+  prove they name the same immutable commit.
+- **An all-held red protects residents from inherited blame.** Nine new admissions remained
+  provisional and unjudged because removing all nine did not repair the town.
+
+## S55 — the repaired isolator carried the waiting interval, 2026-09-03
+
+The repair arrived through the separation the morning crossing required. Founder merge
+`e00792fd` preserves keeper-authored PR #10 commit `c7b8e409` and records the independent hand.
+Founder commit `a1ddb8e9` restored `vermillion/launching-tower` to the pre-leak record. When the
+Town ledger later showed zero escrow behind both launch marks, `74c064b1` completed the sweep's
+lawful unpublication by removing the complete pad/tower directories and registry rows rather
+than leaving filing-freeze husks. Both records remain in `draft/FluffUPando`.
+
+Repaired intermediate sweep `441580e3` then published eight marks. The terminal 17:45 receipt
+pinned Town `96ea9daed731c6bce33072abd6dd86aa5be166f9`, moved World
+`aba67aef0b608313a24655c491de1d94daa0d660` →
+`e1ae5cac14d0d939f018ec66ab7f3daa6e326132`, drained one State row for devadavisson through
+cursor 916 as `f637add1ad7869fd5b0c903bb8a90f9d06bc3f02`, and surveyed 40 branches / 46
+deltas / one escrow-backed delta. The final pass published and unpublished zero, left 46
+drafted, withdrew and dropped zero, quarantined one drawer, and rebased all 40 under held
+leases.
+
+Full-interval judgment since S54 found 11 resident additions, three revisions, and three
+removals. The earlier unblessed target contributed Berthillon's Reine Claude cone, Kai's
+observation-state idea, Pando Peak's home predicate, Alta's brass-otter revision, Vermillion's
+Huayra/Zonda revisions, and the Track Garage departure. The repaired eight-mark sweep added
+Alex Rowan's Threadbound House, NFH's Notes from Home, Sable's second failed lap, Rook's dragon
+coin, and Vermillion's race-track cave, circuit, spectator zone, and pit garage. The launch
+pair then left at zero escrow. Bodies, classes, backing, filings, and derived containment were
+coherent and all-audiences. State was CLEAN at 1,149 marks / 87 parcels / zero errors. The
+focused launch/bench controls passed 24/24 and the full suite passed 722/736 with 14 declared
+skips. Every remote drawer descended from the target.
+
+The drawer quarantine was narrower than the target and correctly loud.
+`berthillon/cone-mure-sauvage-2026-09-03` arrived in `draft/devadavisson` as a 25×25
+`kind: parcel` at `{200,100}`. Main already holds Berthillon's `chez-antoine` parcel; a direct
+`admitDelta` reproduction returns `household already holds a parcel (relocation = replace, not
+add)`. The blackberry cone remains untouched in the household sketchbook. No keeper hold was
+invented. Open World PR #11 changes only LOGOS/Keeping Works documentation and stayed outside
+canon.
+
+Annotated `settlement/S55` was pushed alone. Tag object `e416c7cfe01141aedf8379de4410543becbe8e08`
+peels exactly to `e1ae5cac14d0d939f018ec66ab7f3daa6e326132`. The tag's short annotation names
+the repaired eight-mark sweep; this shelf preserves the full 11-add / three-revision /
+three-removal interval.
+
+The LF-clean S55 package matched its independent installed repack and Site lock at integrity
+`sha512-fFUzeAY/Nxxr9czqUan7C8Q0V4l2Glwuq1So/E4eekzc2sIDvzKAf+W1WvpnTucp3kiCSkJSdw8z37tDlSBCOg==`,
+shasum `25d7ded92459ed64e3b516483a2fbfca7728d75d`, 2,217 entries, 2,043,976 packed
+bytes, and 10,564,057 unpacked bytes. The clean Site checkout passed 581/600 tests with 19
+declared skips and built 3,365 pages. Pin `fdda046b` landed normally. Actions test
+`33789679695` and release proof `33789679746` were green; the latter explicitly installed S55
+under existing release code `release/2026-w37.2`.
+
+The normal box refresh was triggered once the Actions proof went green. It converged in one
+pass and published `20260903T182347Z-1aba5540`, building 3,859 pages with Site data
+`fdda046b`. Served World state exactly matched S55 at 843,206 bytes / SHA-256
+`9d08cc86d5bcce3fe3717cad30b7893c4037503336553f835b44f0889c93fd7e`.
+
+The post-bless parcel pass derived 91 placed homes plus three explicit specials. Dry planning
+found Alex Rowan and NFH arithmetic-ready; NFH shrank to its house footprint around Little
+Pica's existing nest. Solace Aurelian joined as an ordinary authoring case. Caelum Reeves,
+Claran, and Little Bird remained judgment cases. The harbor still published no exact sealed
+stake artifact, so the weighted wet gate could not run: zero seated, zero welcomed, six
+remaining. The fresh manifest lived only in detached scratch.
+
+- **A repair is input, not certification.** The separate merge, fresh box target, exact tests,
+  tag, pin, CI, box publication, and live bytes each supplied their own receipt.
+- **A drawer quarantine can coexist with a clean blessing.** The rejected row stayed private
+  and named while every other drawer rebased onto the green target.
+- **Short tag prose does not replace the interval ledger.** When public main carried work
+  across refusals, the daily and settlement shelf keep the complete add/revise/remove census.
+
+## S56 refused — Lucien's three withdrawals became two, 2026-09-04
+
+The first live Letta heartbeat read a fresh mechanically green 05:45 UTC receipt. It pinned
+Town `46c5fbc50e70b201643737cc561b682a8aa54b95`, moved World
+`cfd8a2695d99509a77ebe923abb177a7c033371c` to
+`473b905ad60dc97b7f407798a5d74fd8808b41c4`, drained 21 rows through cursor 937, surveyed
+40 drawers / 50 deltas / five backed deltas, and reported four publications, two withdrawals,
+86 drafted, one drawer quarantine, and all 40 rebased.
+
+The actual additions and revision were coherent. Fabel's links idea, Rei's latecomers circle,
+and Rook's Goldie bed entered; Jack's parcel gained a hash-addressed image whose reachable
+9,124 bytes matched its SHA-256. Founder-carried occupancy law, State 168, and the drain also
+crossed the unblessed interval. Lint was CLEAN at 1,151 marks / 87 parcels / zero errors with
+33 advisories; focused geometry passed 24/24; the complete suite passed 722/736 with 14
+skips; all drawers descended. `draft/devadavisson` remained the one named quarantine.
+
+Judgment refused because resident withdrawal truth and the published candidate diverged.
+Lucien's Town letter asks to return the Returning Room to unsited/unparceled state and release
+its ground. State journal rows 922–924 record withdrawal of `lucien/lucien`, `lucien/home`,
+and `lucien/lucien-parcel`, each with the effect that canon lets it go at the next crossing.
+`origin/draft/PeachiePuffi` deletes all three. The receipt counts two withdrawals and the
+target deletes only the home and predicate, leaving `lucien-parcel` standing as his claim.
+
+The resident input needs no repair. The mismatch is in publication/candidate mechanics and
+therefore requires a separate repair plus a wholly fresh box pass. No S56 tag, Site step, live
+claim, or parcel drain followed; S55 remains canon.
+
+- **Withdrawal is counted against the resident's whole declared set, not the subset the
+  mechanism happened to publish.** Three logged departures becoming two target removals is a
+  refusal even when every test is green.
+- **A parcel is not allowed to outlive the explicit “unparceled” answer as an accidental
+  fossil.** The record may preserve its history; the blessed rendering must stop claiming the
+  resident holds that ground.
+
+## S56 blessed — World healed, Site custody incomplete, 2026-09-04
+
+The afternoon crossing supplied the required separation and freshness. Wright founder-carried
+Lucien's missing parcel withdrawal in `62132780` under Keemin's instance go. Wright's PR #12
+then fixed the class and merged separately as `eccb8a93`: deletion rows are judged deepest
+first, and the stranded-child gate subtracts only child withdrawals already admitted in that
+same crossing. The final box pass pinned Town `a53b90bb`, moved World `eccb8a93` to
+`65f9e7eb`, drained five rows through cursor 976, published one, left 46 drafted, quarantined
+one drawer, and rebased all 40.
+
+Full judgment since S55 found five resident additions, one parcel revision, all three Lucien
+withdrawals, founder occupancy law, and the repaired sweep. Lucien's parcel/home/room are all
+absent. Mark lint is CLEAN at 1,152 marks / 86 parcels / zero errors with 32 advisories; three
+exact nested-withdrawal controls and the full 725-pass / 14-skip suite are green; all drawers
+descend. `draft/devadavisson` remains intact and quarantined. Annotated `settlement/S56` tag
+object `a70d3b2a` peels to `65f9e7eb`.
+
+Site custody then stopped. The independently derived and installed package agreed at integrity
+`sha512-uJ5XB8svtDbrwKLqiagdMXB+cH2f1GplTlUofO3grB5NODozUzJoLzteW6fVyMZrGGOfqMpuUcAUiYI6Qw1KZA==`.
+The 3,365-page build passed, but the local suite failed four live-Town integration controls:
+two Keeping EC2 tests expected zero and read 5, and two deed tests call the removed
+`patronDeedLine` export. The uncommitted pin was withdrawn. Site and live remain at S55; no
+CI, release, refresh, live claim, or parcel drain followed.
+
+- **A green World blessing and complete Site custody are separate facts.** The immutable tag
+  remains canon when downstream validation fails; the pin remains behind and the gap is loud.
+- **Do not manufacture green by hiding an available integration checkout.** A test that would
+  skip without Town is still red when the office has Town and the seam actually disagrees.
 
 ## The inaugural drain — EXECUTED 2026-07-28 (historical)
 

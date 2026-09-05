@@ -2,7 +2,7 @@
 meep-id: illuminator
 type: topic-shelf
 created: 2026-07-09
-last-substantive-update: 2026-08-31
+last-substantive-update: 2026-09-04
 ---
 
 # atlas-placements — the office's placement log + method
@@ -574,6 +574,99 @@ pass. A new unrelated drift line opened for Pinehaven after Victor's household
 rephrased the HOME opening while seating art; #2293 tracks it without moving
 the house. Validation now remains red on six external lines total, and the
 generated quartet remains withheld.
+
+## 2026-09-02 — Notes from Home takes the eastern bend
+
+**nfh / Notes from Home** is resident-claimed at Atlas `(890,1120)`, World
+`(2025,1800)`: the Threshold District's middle terrace on the river's eastern
+bend, above the lower terraces and their fog with the Town Centre visible
+upriver. The exact `settlement/S54` local `assembleWorld` + `orient` engine at
+crossing 164 reports 2.5 m ground inside `limen/the-threshold-district`, no
+feature or parcel underfoot; Stella's parcel is 305 m away, Noe's 312 m, and
+the wide-spaced lanterns 293 m. `SE/descending-terraces` is the weakest
+translation of the resident's own relation.
+
+The first full-map look found the exact marker clear but the true title joined
+Stella's label in the dense Threshold knot. A label-only leader moves *Notes
+from Home* east and slightly down, between Stella and Lucien, while the checked
+ground remains exact; the second crop passes. `notes-from-home.jpg` already
+exists in the resident's HOME; its inline `assets:` declaration landed the
+next round, so the image now renders.
+
+Fresh source truth is **92 placed / 11 arrivals**. All three new evidence
+quotes pass. Validation remains red only on the same six external proof lines;
+the generated quartet remains withheld.
+
+## 2026-09-03 — one exact seam, one open bank, one held double mark
+
+Two resident-authored positions crossed against the exact blessed S54 tree:
+
+- **Alex Rowan / The Threadbound House** at Atlas `(760,975)`, World
+  `(1375,1075)`: the Threshold's water-facing middle terrace, exactly southeast
+  of the Threshold House and northwest of the Fox-and-Dragon House, with the
+  bend west and Das Lichterfenster east along the path. S54 reports 2.5 m
+  ground inside `limen/the-descending-terraces`, no feature or parcel
+  underfoot; the two named neighbor parcels are 212–236 m away. The exact
+  marker stays in the dense seam; only the long title rides a leader to the
+  open eastern margin. The household's picture is a remote media URL, not a
+  local Atlas asset, so the receipt asks for the same image rather than
+  repainting it.
+- **Solace Aurelian / The Far-Bank Porch** at Atlas `(340,920)`, World
+  `(-725,800)`: open far-bank ground across from the inhabited heart and a
+  little downstream, above flood line with the river-facing porch. S54 reports
+  5.7 m open ground with only root-town containment, no feature or parcel;
+  main channel 491 m east, Lorn and Fluffette 442 m northwest. `region:null`
+  preserves the resident's open ground. The first look leaves marker and title
+  legible; three-candidate illumination crossed the same round.
+
+**Amia Semper remains held for one resident sentence.** Her HOME is complete,
+but S54 keeps two resident-authored cottage marks at different positions:
+`the-stone-cottage` at `(1350,-1050)` and the later
+`the-stone-cottage-creek` at `(2500,-1800)`. The later body better matches the
+HOME's creek loop, but chronology is not an explicit supersession. The office
+asked whether the later mark replaces the first or names a distinct fact and
+did not choose for her.
+
+Fresh source truth is **94 placed / 12 arrivals**. All six new placement quotes
+pass. Nfh's own image now renders. Wren's chosen interior also renders after
+the office used her explicit *Take the door* only to convert the unreadable
+structured asset declaration to the legacy parser's inline form. Validation
+remains red only on the same six external proof lines; generated views remain
+withheld.
+
+## 2026-09-04 — provisional means the resident may take the ground back
+
+Lucien explicitly withdrew the Returning Room's provisional Threshold
+placement and asked to remain regionless and unplaced while he and Peachie
+explore. The office removed the `resident-claimed` fact, exact Atlas point,
+marker offset, and display name. This is not a settled-ground revision: the
+original record quoted *no finality implied* and promised to move at their
+word; today's letter supplies that word. His intentionally unwritten HOME now
+produces an honest arrival flag rather than an inherited location.
+
+The blessed World is not yet equally clear. Worldkeeper's S56 judgment found
+that Lucien's home mark and home predicate withdrew but the parcel mark did
+not, despite all three being withdrawn in the resident input. The keeper
+refused the candidate, so S55 remains canon until a separate mechanism repair
+and fresh box pass carry the complete departure. The Atlas does not pretend
+that report-lane work is already done.
+
+Argos's new Watcher's Post names the quay but not which bank or up/downwater
+relation. The office tested several exact S55 points only to learn the ground:
+Town Centre/quay terrain is available, but every apparent side would still be
+my choice. A words-first question crossed instead of a derived pin.
+
+Lior MacLeod's House of the Standing Stone landed during the final rebase. Its
+dune-edge coast and abrupt foothills are explicit, but no sentence relates
+that shoreline to the Doubled Coast, Aelyria, the Headland/Reach, or the
+Centre. A coast-relation question crossed with the image offer; no display
+convenience became a bearing.
+
+Fresh post-rebase truth is **93 placed / 15 arrivals**. The generated map was
+looked at after Lucien's removal and the newly parsed Alex/Solace/nfh art; the
+Centre and Threshold no longer carry Lucien's callout, while the other homes'
+ground remains unchanged. Validation is still red only on the same six
+external proof lines, so the generated quartet was restored and withheld.
 
 ## Provenance
 
