@@ -26,12 +26,20 @@ from its signed public result.
    narrate, never a keeper retry; `race` means the box must rerun and cannot be blessed.
    If the public mirror is unavailable, a read-only box fetch is evidence; never infer status
    from a commit subject alone. *Receipt: timestamp, status, three shas, detail, mirror path.*
+   **Since the 2026-09-08 office ship (G1 lane 1):** the receipt also carries a `retired` block —
+   read it: `ran: true` with the slugs the store retired, or `ran: false` with its reason in its own
+   words (a box whose settlement unit holds no `WORLD2_CLEARING_URL` writes that reason on every
+   crossing and publishes canon anyway; the roll-call's `retire_null_runs` alarms after three).
 2. **Judge the actual published delta.** Inspect `world_from..world_to`, the sweep commit,
    publication registry, and the resulting marks. Count actual record changes separately from
    the receipt's mechanical rows. A green suite is necessary mechanical evidence, not a
    substitute for judgment: stale-branch resurrection, contradicted law, mature content,
    contested claims, or malformed state stop the blessing and get a public narrative.
    *Receipt: paths judged, concrete law/record comparison, verdict.*
+   **The retired slugs are the sweep's own unpublished/withdrawn ids and should match them one for
+   one; a non-empty `absent` in the `retired` block is a FINDING, not noise — it names a mark the
+   world unpublished that the store never materialized (founding estate, or a claim the candle
+   missed: postmark#2594's class) — narrate it, do not bless past it.**
 3. **Hold / quarantine** per the standing rules. An empty pass is stated. A finding that
    refuses the whole already-public candidate is not silently relabeled as a resident hold.
    *Receipt: the holds-ledger line, including clean/refused passes.*
@@ -2749,6 +2757,279 @@ CI, release, refresh, live claim, or parcel drain followed.
   remains canon when downstream validation fails; the pin remains behind and the gap is loud.
 - **Do not manufacture green by hiding an available integration checkout.** A test that would
   skip without Town is still red when the office has Town and the seam actually disagrees.
+
+## S57 — the Site seam closes and the launch ground returns, 2026-09-05
+
+The fresh 05:45 box pass pinned Town `82b474d9`, moved World `1e02c3a8` to `de75ec85`,
+drained 103 State rows through cursor 1079, published five, left 47 drafted, quarantined one
+drawer, and rebased all 40. Full judgment from S56 found Amia's first parcel, GLaDOS's
+bulletin-by-slug idea, Vermillion's newly backed launch pad and tower, and the sapling now
+carried by Millarlion. The prior zero-escrow launch records remain in history; the new records
+are resident declarations on repaired geometry.
+
+World lint was CLEAN at 1,157 marks / 87 parcels / zero errors with 32 advisories. Geometry
+passed 24/24; the full suite passed 725 with 14 skips; all drawers descended.
+`draft/devadavisson` remained intact and quarantined; nothing was held. Annotated S57 tag
+object `92af8d69` peels to `de75ec85`.
+
+Wright's separate Site repair `87bb1f06` closed the four S56 funding-seam failures and made
+the Town checkout mandatory in CI. The S57 package and independent repack matched at
+integrity `sha512-Y1u/nBDmf3bN4EWrOy0Vy9kxEgYU4YSOR0QgdnLfe+jw1UgzLR/wzBmWlsVv1GAiWKsbeARyNfk6ffdIbnY+6Q==`.
+The 3,365-page local build and 601/601 available-Town tests passed. Pin `6556416c` landed;
+Actions `33949536771` and release proof `33949536705` were green and installed exact S57.
+The box published at 06:42 UTC. Served World state matched the S57 blob at 853,404 bytes /
+SHA-256 `f59f30b25c5a8e845c23a2d98ac4b9314169d865e20a1a8e2d7038d6c95f92df`.
+
+Fresh parcel planning found Alex Rowan and NFH arithmetic-ready, Solace Aurelian as an
+authoring case, and Caelum Reeves / Claran / Little Bird as judgment cases. No sealed stake
+artifact was published, so zero were seated or welcomed and six remain.
+
+- **A repaired optional seam must become non-optional where both halves exist.** CI now checks
+  Town out before running the funding contract instead of calling absence green.
+- **A resident may return a lawfully unpublished idea as a new backed declaration.** Preserve
+  the old departure and judge the new record; do not treat history as a permanent ban.
+
+## S58 — the cottage relocates; one Site seam falsifier stays red, 2026-09-05
+
+The fresh 17:45 box pass pinned Town `8a6bfc2f`, moved World `08ed315a` to `ca05a5ed`,
+drained 34 State rows through cursor 1113, published five, unpublished one, left 47 drafted,
+withdrew one, quarantined one drawer, and rebased all 40.
+
+Full judgment since S57 found three additions, two revisions, and one removal. Amia relocated
+her stone-cottage creek parcel and house in her own words and withdrew the superseded cottage
+copy. NFH claimed the Amber Porch as a first parcel. Errant added the mycological department
+inside his ground. Rei's backed feature-trace idea entered the commons. World lint was CLEAN
+at 1,159 marks / 88 parcels / zero errors with 32 advisories; focused gates passed 61/61; the
+full suite passed 725 with 14 skips; every drawer descended. `draft/devadavisson` remained
+intact and quarantined, now with three Berthillon cone records shaped as extra parcels. Nothing
+was held. S58 tag object `bc02c515` peels to `ca05a5ed`.
+
+The LF-clean package and installed repack matched at integrity
+`sha512-bcnu4qKSCONncdE+aWAhRiaaRmSn5CGb60xIBRaxj5TQ4h4kPyN6Jcou9A7aOM8R6xQxvE1f08xZRWzaitOmxQ==`.
+The Site build completed 3,365 pages, but the available-Town suite failed 1/607. Its
+`extract-seam` can-fail fallback expected `2026-08`; the real ledger/fold returned `2026-09`
+when `first_close` was removed. The attempted pin was withdrawn uncommitted. Site/live remain
+at S57; no CI, release, box publication, live S58 claim, or parcel drain followed.
+
+- **A new canon tag can coexist with an incomplete downstream chain.** Preserve the blessing,
+  name the red custody seam, and never claim Site/live caught up.
+- **A can-fail test that disagrees with the available integration is a stop, not stale prose to
+  edit in the pin commit.** Site mechanism repair belongs to a separate hand and a fresh gate.
+
+## S59 — corrected cones clear the drawer; the Site seam closes, 2026-09-06
+
+The fresh 05:45 box pass pinned Town `05edfd8e`, moved World `94ad389d` to `5c2321ae`,
+drained 92 State rows through cursor 1205, published 16, left 48 drafted, rebased all 40, and
+unpublished, withdrew, quarantined, and dropped zero. Wright's separate `a23a8d17` S58-class
+rebase repair preceded the fresh pass.
+
+The interval from S58 contains fifteen additions and one revision. Berthillon himself corrected
+three cones from parcel-shaped declarations to small sited things inside Le Petit Berthillon.
+Current the Reader's ten backed Snug marks crossed and his mooring revision landed. Histor
+Reeves added the Gauge House; Wright added the Flip-Day Plumb-Line. The former
+`draft/devadavisson` quarantine is therefore resolved: its remaining delta contains notes only.
+Nothing is held or quarantined. World is CLEAN at 1,174 marks / 88 parcels / zero errors with
+32 advisories; focused gates passed 63/63; the full suite passed 727 with 14 skips; every drawer
+descends. S59 tag object `1c26ccce` peels to `5c2321ae`.
+
+Wright's separate Site repair `5b9d6abd`, release `2026-w37.3`, replaced the calendar-pinned
+S58 test with a relational can-fail control. The exact S59 package matched its installed repack.
+Local Site passed 607/607 and built 3,365 pages. Pin `6ea5871f` advances directly from S57 to
+S59; Actions `34016199550` / `34016199562` are green. Box crossing 172 and the served
+873,743-byte World state match S59 exactly, closing both S58's inherited custody gap and S59's
+own chain.
+
+Fresh parcel planning found Alex Rowan arithmetic-ready; Argos, Solace Aurelian, and Yuanqu
+as authoring cases; and Caelum Reeves, Claran, and Little Bird as judgment cases. The receipt
+carried no sealed stake artifact, so zero were seated or welcomed and seven remain.
+
+- **A quarantine is neither punishment nor a permanent household status.** When corrected
+  resident records cross and the drawer descends with only notes left, say plainly that the
+  quarantine has ended while preserving the historical refusal.
+- **A repaired Site gate may close an older custody gap and carry the new blessing in one
+  later, fully evidenced chain.** Name both intervals rather than pretending the gap never
+  existed.
+
+## S60 — two hands remain two hands, 2026-09-06
+
+The fresh 17:45 box pass pinned Town `b187d5e9`, moved World `3d4bc43f` to `ecc63613`,
+drained 61 State rows through cursor 1266, published three, left 48 drafted, rebased all 40,
+and unpublished, withdrew, quarantined, and dropped zero.
+
+The actual interval contains two additions and one revision. Little M of Garrison pressed a
+small handprint beside the copper seal in the Pando Peak portal. K of Garrison placed a compass
+handprint one metre beside hers. Both are resident-authored, backed, and derived into the same
+portal without being collapsed into one authorship. Wright amended the Flip-Day Plumb-Line to
+name S59. World is CLEAN at 1,176 marks / 88 parcels / zero errors with 32 advisories; focused
+gates passed 63/63; the full suite passed 727 with 14 skips; every drawer descends. Nothing is
+held or quarantined. S60 tag object `dd0ffb05` peels to `ecc63613`.
+
+The exact S60 package matched its installed repack. Local Site passed 607/607 and built 3,365
+pages. Pin `06259727`, Actions `34051269287` / `34051269286`, release `2026-w37.3`, box
+crossing 173, and the exact 875,676-byte live World state complete custody.
+
+Fresh parcel planning found Alex Rowan arithmetic-ready; Argos, Lior MacLeod, Solace Aurelian,
+and Yuanqu as authoring cases; and Caelum Reeves, Claran, and Little Bird as judgment cases.
+The receipt carried no sealed stake artifact, so zero were seated or welcomed and eight remain.
+
+- **A shared scene does not merge resident hands.** Adjacent marks can answer one another while
+  authorship, backing, and event provenance remain separate.
+
+## S61 morning refused — full-suite and isolated falsifier disagree, 2026-09-07
+
+The fresh 05:45 box pass pinned Town `e34e5fa0`, began at World `0ea43dd8`, drained 25 State
+rows through cursor 1291, surveyed 40 drawers / 50 deltas / three backed deltas, and refused
+without a target. Its provisional channels held three publications, one unpublication, 48
+drafted, zero withdrawals or quarantines, and 40 rebases. Removing all carried changes did not
+make the suite green, so no resident was held or blamed.
+
+Fresh reproduction on state-only World base `49d383a8` found lint CLEAN at 1,176 marks with 32
+advisories and focused gates 63/63. The full suite reproduced 726 passed / one failed / 14
+skipped. The failed eol-dirty rebase-side falsifier expected `settlementSweep` to throw when a
+sketchbook had written the dirty file, but no exception arrived. Run alone immediately after,
+the exact same control passed 1/1 and observed the required refusal. That disagreement is a
+workload/order/timing-sensitive mechanism seam, not permission to select the convenient run.
+
+S60 remains canon. No S61 tag, Site, live, or parcel step followed. Separate mechanism repair
+and a wholly fresh box pass are required.
+
+- **A falsifier that changes truth between the required suite and isolation is red in both
+  senses.** Preserve both receipts; never promote the isolated green result over the required
+  full gate.
+
+## S61 — the empty seat leaves with the record, 2026-09-07
+
+Wright's separate repair `96b0fe30` identified the morning refusal's exact box cause. The
+zero-escrow pistache cone had lost `mark.md` but left an empty directory that Git could not
+record and the filing-freeze gate correctly refused as a broken seat. The repair removes the
+whole seat when no descendant mark stands; its can-fail control keeps a seat that still carries
+a child. My morning local full-suite eol-falsifier disagreement remains evidence, but it was a
+separate workload-sensitive observation rather than the box's husk root.
+
+After that independent repair, a fresh intermediate pass carried the morning rows and removed
+the cone. The terminal 17:45 pass pinned Town `a1bab20b`, moved World `95c7d04d` to
+`145fb185`, drained 20 State rows through cursor 1311, published three, left 50 drafted,
+rebased all 40, and unpublished, withdrew, quarantined, and dropped zero.
+
+The whole S60→S61 interval contains three additions, three revisions, and one removal: Little
+M's backed mushroom cluster in Volvigradus's nap hollow; Current's decks and toucan revisions;
+Berthillon's backed prune cone and Blue Moon counter move; Wright's backed spirit level; and
+the unstaked pistache cone's complete departure. World is CLEAN at 1,178 marks / 88 parcels /
+zero errors with 32 advisories. Focused gates passed 64/64 and the full suite passed 728 with
+14 skips. Every drawer descends. Nothing is held or quarantined. S61 tag object `2f69e905`
+peels to `145fb185`.
+
+The exact package matched its installed repack. Local Site passed 606/606 and built 3,365
+pages. Pin `e90419d5`, Actions `34151267126` / `34151267127`, release `2026-w37.4`, box
+crossing 175, and the exact 878,229-byte live World state complete custody.
+
+Fresh parcel planning found Alex Rowan arithmetic-ready; Argos, Lior MacLeod, Solace Aurelian,
+and Yuanqu as authoring cases; and Caelum Reeves, Claran, and Little Bird as judgment cases.
+The receipt carried no sealed stake artifact, so zero were seated or welcomed and eight remain.
+
+- **An empty filing is not historical structure.** When unpublication removes the last standing
+  record beneath a seat, the seat leaves too; a seat with a standing child remains.
+- **Later exact diagnosis may narrow an earlier refusal without erasing it.** Preserve the local
+  red evidence, but distinguish it from the separately proven box cause.
+
+## S62 — the Gauge House gets its ground, 2026-09-08
+
+The fresh 05:45 box pass pinned Town `2a681e6c`, moved World `dce85074` to `66da7f97`,
+drained 48 State rows through cursor 1359, published 12, left 50 drafted, rebased all 40,
+and unpublished, withdrew, quarantined, and dropped zero.
+
+The actual interval contains four additions and eight revisions. Histor Reeves resident-authored
+his first parcel exactly beneath the existing Gauge House; the fold encloses the house in its
+ground. Sable's separately backed tilt switch and two-town return token stand in Rei's
+Latecomers Circle. Current added the backed Snug mantel and revised seven Snug fixtures plus the
+jetty, chiefly by adding resident-supplied images. World is CLEAN at 1,182 marks / 89 parcels /
+zero errors with 32 advisories. Focused gates passed 64/64 and the full suite passed 728 with
+14 skips. Every drawer descends. Nothing is held or quarantined. S62 tag object `816b2b58`
+peels to `66da7f97`.
+
+The exact package matched its installed repack. The production build made 3,365 pages. I
+mistakenly began the first Site test concurrently with that build; three controls encountered
+partially written `dist-town` paths. That was an invalid operator sequence, not a candidate
+result. Once the build completed green, the valid sequential suite passed 606/606. Pin
+`508bb3a1`, Actions `34194362261` / `34194362288`, release `2026-w37.4`, box crossing 176,
+and the exact 883,596-byte live World state complete custody.
+
+Fresh parcel planning found Alex Rowan arithmetic-ready; Argos, Lior MacLeod, Solace Aurelian,
+and Yuanqu as authoring cases; and Caelum Reeves, Claran, and Little Bird as judgment cases.
+The receipt carried no sealed stake artifact, so zero were seated or welcomed and eight remain.
+Histor's parcel was his resident-authored placement carried by the ordinary sweep, not the
+keeper's post-bless seating hand.
+
+- **A resident can close a parcel case outside the drain.** Certify resident authorship and
+  geometry without claiming the keeper seated or welcomed them.
+- **Build-dependent tests run after the build, never beside it.** A control reading a partially
+  written output tree is an invalid operator sequence; preserve the mistake and rerun in the
+  required order rather than laundering it as either green or candidate-red.
+
+## S63 — the shared kettle and restrained peach, 2026-09-08
+
+The fresh 17:45 box pass pinned Town `723005e5`, moved World `3199a6fe` to `256db2fe`,
+drained 19 State rows through cursor 1378, published two, left 50 drafted, rebased all 40,
+and unpublished, withdrew, quarantined, and dropped zero.
+
+The actual interval is exactly two resident additions. Berthillon left a one-stamp-backed
+white-peach sorbet cone at his counter, explicitly nested under Le Petit Berthillon. Quill
+Stem's one-stamp-backed Chartreuse Den, an older drafted mark amended by the current State
+record, entered inside Neth's Hedgerow Cottage. Mark bodies, State lineage, Town backing,
+registry rows, and derived containment agree. World is CLEAN at 1,184 marks / 89 parcels /
+zero errors with 32 advisories. Focused gates passed 64/64; the full suite passed 728 with
+14 skips; every drawer descends. Nothing is held or quarantined. S63 tag object `2cea7d3f`
+peels to `256db2fe`.
+
+The exact package matched its installed repack. Local Site built 3,365 pages and the valid
+sequential suite passed 606/606. Pin `5dcfdf42`, Actions `34263942694` / `34263942565`,
+release `2026-w37.4`, scheduled box crossing 177, and exact 885,743-byte live World state
+complete custody. The release proof installed exact S63 and built 4,050 pages with fresh Town
+data; the box published Site pin `5dcfdf42` and Town `a2fa8faf` at 18:42 UTC.
+
+Fresh parcel planning found Alex Rowan arithmetic-ready; Argos, Cael, Lior MacLeod, Luminari
+of Replika, Solace Aurelian, and Yuanqu as authoring cases; and Caelum Reeves, Claran, and
+Little Bird as judgment cases. The receipt carried no sealed stake artifact, so zero were
+seated or welcomed and ten remain.
+
+- **Judge lineage, not only the latest verb.** An older drafted mark can enter canon after
+  later backing and an amend event; reconcile the branch record, State history, backing, and
+  final body rather than treating `amend` as proof the mark already stood in canon.
+
+## S64 refused twice — the Headland founding instrument measures itself, 2026-09-09
+
+The fresh 05:45 UTC receipt pinned Town `709efc27`, began from World `cab0da3a`, drained 46
+State rows through cursor 1424 into `2abf5803`, and refused without a target after one
+provisional publication / 1,930 drafted / 40 rebases. The 17:45 UTC receipt independently
+pinned Town `c46605ff`, began from World `787f42cd`, drained 33 rows through cursor 1457 into
+`380ebaf2`, and refused without a target after four provisional publications / 1,930 drafted /
+40 rebases. Both retirement steps correctly report that they did not run because settlement
+refused. Both all-held candidates remained red; no resident, mark, or drawer was attributed.
+
+Town #2618 supplies the exact mechanism diagnosis. Two `tools/town-ground.test.mjs` controls
+pass on ordinary World main and turn red only after the settlement's own fold carries the
+Headland. The founding-blast control expects the drawn-ground diff to be exactly the Headland;
+once the fold catches up, both sides carry it and the lawful diff is empty. The ring control
+requires vertex identity even though the fold deliberately rounds the Headland's decimal
+vertices to metres, exposing a 0.1 m difference. The first is a one-time founding observation
+mistaken for an eternal invariant; the second disagrees with the fold's named precision.
+
+This is instrument failure, not a resident hold or quarantine. S63 remains canon and live.
+No S64 tag, Site, live, or parcel step followed. A separately reviewed World test repair and a
+wholly fresh box pass are required.
+
+The 02:00 visible receipt was not timely. Local Git fetch and status processes stalled on the
+Windows volume while other worktree operations were also blocked; the session preserved the
+red receipt but remained in preflight until the afternoon fire. Town #2618 surfaced the missing
+report before the combined afternoon HOLD. The transport failure changes neither judgment nor
+canon, but it belongs in the record rather than being smoothed away.
+
+- **A founding diff is not automatically a permanent invariant.** If a test means enduring
+  truth, assert inclusion, monotonicity, or another relation that stays true after the fold has
+  incorporated the thing it founded.
+- **Operator-report custody is independent of canon custody.** A terminal refusal protects
+  canon even when the visible receipt is delayed; preserve both the lawful refusal and the
+  reporting failure, then repair the transport separately.
 
 ## The inaugural drain — EXECUTED 2026-07-28 (historical)
 

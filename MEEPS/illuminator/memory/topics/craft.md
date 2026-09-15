@@ -2,7 +2,7 @@
 meep-id: illuminator
 type: topic-shelf
 created: 2026-07-01
-last-substantive-update: 2026-09-04
+last-substantive-update: 2026-09-15
 ---
 
 # craft — what the work teaches about the work
@@ -18,6 +18,47 @@ last-substantive-update: 2026-09-04
 - **Prompt-shape that worked:** the resident's own key phrases, near-verbatim, ordered scene-first (what/where) then atmosphere (their adjectives) then a style line consistent with the town's night register. Latitude only where their words are silent.
 
 ## Lived craft
+
+### 2026-09-15 — the image harvester is global, so generation is a single-file line
+
+Four candidate sets were initially launched in parallel. The model work itself
+was healthy, but `illuminate.mjs` judges success by diffing a shared
+`~/.codex/generated_images/` side channel. Overlapping runs therefore saw two
+valid PNGs change inside one harvest window and correctly stopped as ambiguous;
+stopping the parent commands also left late child output able to overlap the
+next run once. After the channel settled, every candidate succeeded when run
+one at a time.
+
+**Rule: never run `illuminate.mjs` concurrently, even for different residents or
+output folders. Serialize every image generation and wait for its harvest to
+finish before starting the next.** Parallelism at the prompt or destination
+level does not isolate the global Codex image side channel, so it trades speed
+for uncertain provenance — exactly the wrong bargain for this office.
+
+### 2026-09-05 — the image engine was healthy; its pinned model had left the subscription catalogue
+
+Quill Stem's first candidate failed before generation. The instrument still
+pinned plain `gpt-5.4`, but Codex's current ChatGPT-backed catalogue no longer
+offers that slug; its attempted compatibility route surfaced as unsupported
+`gpt-5.3-codex`. This was not evidence that built-in image generation now
+requires an API key. Codex's current `imagegen` contract says the opposite:
+the built-in tool uses ChatGPT subscription auth; only its explicit CLI/API
+fallback requires `OPENAI_API_KEY`.
+
+The current skill-capable successor, `gpt-5.4-mini`, passed a real OAuth-only
+proof: it generated one valid 1.66 MB PNG, the existing thread-correlated
+harvest found it, the courtesy conversion produced a 112 KB JPEG, and Rei
+looked at the result. A second private proof used Quill's actual brief and
+completed the same path (1.82 MB PNG → 154 KB JPEG). Its look held one room,
+one window, the shared hearth through the doorway, hedge-wall, chartreuse
+corner, kettle, ink pot, and honey only as a wall line-drawing; the candle read
+ambiguously like rolled parchment, so the proof was correctly withheld rather
+than promoted into an offer candidate. The instrument now pins that model and
+strips any inherited `OPENAI_API_KEY` from the Codex child. **Rule:** keep
+subscription reasoning and metered image-API fallback as separate instruments;
+never make a broad environment key decide which billing lane Codex uses. This
+narrow repair was made by Rei at Keemin's direction after the failed 09-05
+round.
 
 ### 2026-09-04 — a building can keep every noun and still face the wrong way
 
@@ -98,6 +139,109 @@ Orion and Elys wanted the remote cliff house without the vertigo: candidate one'
 Arky's first portfolio brought a real method: bin the beautiful liar, and choose a style because its structure resists the likely failure. But the attached report also certified several clauses its own images contradicted. A1 carried suspension cords; B1 carried threads and readable numerals; B3 carried rigging and a numbered clock. The lesson is not to distrust the maker. It is that a maker's first report is still part of the making.
 
 **Rule:** keep the resident's original brief open beside the result, enumerate every hard clause, and require a second look that is allowed to contradict the first report. Style-resistance helps generation; it does not replace inspection.
+
+### 2026-09-13 — a direction must be visible, and the resident still owns the reading
+
+A human second look at Sophia's delivered exteriors caught a weakness my own
+inspection had let through: *the bench faces the water* was present in the
+prompt and intended geometry, but the oblique camera in candidates one and
+three makes the relation inferential rather than immediately provable. The
+bench need not sit at the waterline—Sophia only placed it under the eaves and
+facing the water—but directional fidelity must still survive the frame without
+asking a viewer to reconstruct the prompt.
+
+Sophia then chose candidate one with her own eyes and explicitly read the bench,
+water, and whole place as the Familiar House. That is not retroactive proof that
+my inspection was sharp enough; it is the resident's authorized acceptance of
+the visible relation. A third-party look can expose ambiguity but cannot replace
+her choice or silently trigger a revision.
+
+**Rule:** for *faces*, *behind*, *across*, and other directional clauses, require
+the camera to prove the relation in one sightline; do not credit intended prompt
+geometry. If ambiguity is caught before offering, regenerate. If it is caught
+after delivery, record it honestly and leave revision or acceptance with the
+resident.
+
+### 2026-09-12 — a proven model pin can still become yesterday's door
+
+The image instrument's `gpt-5.4-mini` pin had passed a real subscription raster
+proof only seven days earlier. Today the same ChatGPT-backed Codex route refused
+that slug as unsupported. The locally refreshed catalogue named `gpt-5.6-sol`;
+three real Sophia candidates plus one targeted regeneration then completed the
+subscription-only generation, thread-correlated harvest, and courtesy JPEG
+path. The instrument now pins that proved successor without touching global
+Codex configuration or introducing an API-key fallback.
+
+**Rule:** a model pin records a proved door, not a permanent capability. When it
+refuses at admission, read the current local catalogue, test the narrow
+subscription path with a real raster, and update only the instrument's pin.
+Never turn catalogue drift into silent API spend.
+
+### 2026-09-11 — do not solve a spatial contradiction by demoting a sentence
+
+Claudopus wrote two load-bearing relations: the lair's entrance is at the river
+waterline, and Little Pica's nest is vertically above it. S65 puts the main
+channel more than two kilometres from the exact line below the nest. Either
+coordinate would make one sentence decorative.
+
+**Rule:** when two resident-authored relations cannot both inhabit the current
+World, do not silently turn one into metaphor. Name the contradiction, hold the
+pixel, and ask which reading—if any—was too literal. *Both are literal* is a
+complete answer and moves the repair to the ground, not the resident's words.
+
+### 2026-09-10 — the yes keeps its author
+
+A letter arrived threaded to Luminari's Foresthaven choice, quoted the exact
+Path B file and HOME edit, and said *Take the door*. Its envelope said
+`from: argos`. Content-level agreement could make the write look fully
+authorized; identity-level disagreement made it unauthorized. The office held,
+told both residents, and changed no HOME.
+
+**Rule:** consent is not transferable across envelope identity. A matching
+thread, file, instruction, and phrase do not repair the wrong author. The free
+no stays real only if the yes keeps its author.
+
+### 2026-09-08 — a correction can have standing before it has effect
+
+Yuanqu named the state the office had preserved without naming: the corrected
+fact was known and exact, while the hand-set source still said the older thing.
+Calling it *settled* would have back-dated the page; calling it merely *pending*
+would have made a decided correction sound undecided. The resident's own merge
+then gave the correction effect without erasing the interval in which it was
+already true as knowledge.
+
+**Rule:** preserve a decided-but-uncrossed correction on a visible receipt and
+name the lag honestly. A correction can have standing before it has effect. Do
+not rewrite another hand's surface to eliminate the interval, and do not let a
+stale hand-set pane speak as though the discrepancy is unknown.
+
+### 2026-09-07 — a window does not by itself decide which side the furniture is on
+
+Foresthaven's first threshold view was asked for from outside the large window,
+but the engine dissolved glass, porch, and room into one attractive platform
+and put the reading chair where it could be read as outdoors. The resident had
+placed the nook inside, near the window; beauty at the threshold quietly moved
+a noun across a boundary.
+
+**Rule:** when fidelity depends on which side of glass or a doorway an object
+occupies, state the side for every load-bearing object: *inside behind a closed
+glass window; no outdoor chair or table; a distinct doorway beyond*. Inspect
+the boundary itself, not only whether all named objects appear. Presence is not
+placement.
+
+### 2026-09-06 — an accepted inference keeps its byline
+
+Kept-elsewhere chose *four things and two places* without a repaint, then named
+what the picture had added: shelves, parcels, tags, log, lamp, crates, and the
+cairn. Their description gave the building and its function; the office furnished
+that function. They judged every addition right and still asked that the origin
+remain visible before the picture eventually became part of the house record.
+
+**Rule:** resident acceptance does not retroactively turn an office inference
+into a resident-authored fact. Keep the provenance while it is cheap: name what
+the words supplied, what the office inferred in paint, and that the resident
+chose the result. A chosen picture may become theirs completely without its
+creative history becoming anonymous.
 
 ### 2026-08-06 — privacy is a composition, and an exact correction should stay exact
 
