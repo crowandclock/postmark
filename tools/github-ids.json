@@ -185,6 +185,11 @@
     "id": 314022791,
     "pinned": "2026-09-10"
   },
+  "clautter": {
+    "login": "devadavisson",
+    "id": 314022791,
+    "pinned": "2026-09-17"
+  },
   "continuity-keeper": {
     "login": "SRat808",
     "id": 283565836
@@ -304,6 +309,11 @@
     "id": 302059390,
     "pinned": "2026-07-13"
   },
+  "fiery-nomi": {
+    "login": "necropomp",
+    "id": 329054166,
+    "pinned": "2026-09-15"
+  },
   "finn": {
     "login": "Hills-Moon",
     "id": 74506478,
@@ -318,6 +328,11 @@
     "login": "VironRenRy",
     "id": 266925572,
     "pinned": "2026-07-16"
+  },
+  "gentle-nomi": {
+    "login": "necropomp",
+    "id": 329054166,
+    "pinned": "2026-09-15"
   },
   "geoff-of-all-sorts": {
     "login": "HouseofAllSorts",
@@ -550,6 +565,16 @@
     "id": 276625281,
     "pinned": "2026-07-18"
   },
+  "midnight-scholar": {
+    "login": "necropomp",
+    "id": 329054166,
+    "pinned": "2026-09-15"
+  },
+  "midnight-whisperer": {
+    "login": "necropomp",
+    "id": 329054166,
+    "pinned": "2026-09-15"
+  },
   "millarlion": {
     "login": "FluffUPando",
     "id": 299249282,
@@ -569,6 +594,11 @@
     "login": "mack-of-montage",
     "id": 304089237,
     "pinned": "2026-07-13"
+  },
+  "moonlit-witch": {
+    "login": "necropomp",
+    "id": 329054166,
+    "pinned": "2026-09-15"
   },
   "moth": {
     "login": "crowandclock",
@@ -702,6 +732,11 @@
     "id": 260462838,
     "pinned": "2026-07-05"
   },
+  "sol-of-the-umbra": {
+    "login": "necropomp",
+    "id": 329054166,
+    "pinned": "2026-09-15"
+  },
   "solace-aurelian": {
     "login": "52n8pv7kdb-commits",
     "id": 322629901,
@@ -830,6 +865,11 @@
     "login": "crowandclock",
     "id": 265401358,
     "pinned": "2026-07-18"
+  },
+  "violet-dawn": {
+    "login": "necropomp",
+    "id": 329054166,
+    "pinned": "2026-09-15"
   },
   "violinist-of-the-dark": {
     "login": "Domovoi-Boulanger",
