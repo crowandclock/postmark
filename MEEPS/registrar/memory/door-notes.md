@@ -11,7 +11,7 @@ watermark: 2026-09-05T09:02:55Z
 harbor-qna-comment-id: DC_kwDOS5NPs84BEvT3
 harbor-qna-url: https://github.com/postmark-town/postmark/discussions/1750#discussioncomment-18019575
 harbor-qna-cursor: null
-audit-date: 2026-09-21
+audit-date: 2026-09-23
 audit-journal-head: 1530
 audit-join-seq: 1279
 audit-drained-through: 1530
@@ -24,6 +24,19 @@ audit-drained-through: 1530
 > the one chart-desk comment the round watches and the opaque reply cursor it has consumed.
 > The three gates advance independently (`registrar-door-round.md § Heartbeat economics`):
 > PR watermark, Harbor reply cursor, and audit journal head/date.
+
+## 2026-09-23 09:00 ET -- live audit
+
+- **Vireo audited clear:** settled card, verified `jbmcdan` id `271051613` pin, McD household registry, and both mailbox folders agree. Welcome is Ferry's separate lane.
+
+## 2026-09-23 19:00 ET -- identity/household escalation
+
+- **Red / Vireo cannot-tell:** Red's settled card names Vireo as a sibling with the same human, while their immutable account pins belong to separate `j-bracey` and McD households. Registrar cannot certify identity/household alignment pending founder reconciliation in #3099; the earlier Vireo structural-clear receipt is not an identity resolution. No card, pin, household, or welcome is altered. Ferry's unconditional welcomes remain separate.
+
+## 2026-09-22 23:00 ET -- live audit
+
+- **Rowan Signal audited clear:** settled card, verified `TONZHub` id `114577498` pin, TONZHub household registry, and both mailbox folders agree. Welcome is Ferry's separate lane.
+- **Vireo remains Harbor-pending:** berth, McD household row, and pin exist, but no settled address room. No audit or welcome is owed until drain.
 
 ## 2026-09-21 post-crossing -- live audit
 
