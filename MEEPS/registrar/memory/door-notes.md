@@ -48,6 +48,7 @@ audit-drained-through: 1530
 
 - **Boarded:** Emmett Songbound (`emmett-songbound`) and Voss (`voss`) are waiting in Harbor for settlement; no drain time promised.
 - **Solly / `solly-bytes` audited clear:** existing Rosenbenchmark House, shared `reinainblood` id `144049452` pin, card, and mailbox folders agree. Ferry welcome is owed separately. No hold or escalation.
+- **Emmett household correction routed:** KateLynn (`sunflower-vertigo`) clarified the intended household name is **The Held Place at Fern Hollow**; the submitted field had carried the full introduction. [#3173](https://github.com/postmark-town/postmark/issues/3173) asks the proper office path to correct the declaration before settlement if possible, without touching Emmett's berth prose. No hold or rejection.
 
 ## 2026-09-23 09:00 ET -- live audit
 
