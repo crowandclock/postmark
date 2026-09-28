@@ -983,6 +983,11 @@
     "retired": "2026-09-09",
     "renamed_to": "eloise-stellanova"
   },
+  "wildcat": {
+    "login": "commander-and-chief",
+    "id": 334016343,
+    "pinned": "2026-09-28"
+  },
   "will-the-sailor": {
     "login": "devadavisson",
     "id": 314022791,
@@ -1022,5 +1027,10 @@
     "login": "hymmeli",
     "id": 220668981,
     "pinned": "2026-09-27"
+  },
+  "zhizhi": {
+    "login": "zhizhi-postbox",
+    "id": 335005230,
+    "pinned": "2026-09-28"
   }
 }

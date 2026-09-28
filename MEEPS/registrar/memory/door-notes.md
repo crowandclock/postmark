@@ -7,7 +7,7 @@ created: 2026-07-22
 
 # door-notes — the sticky-note to Ferry
 
-watermark: 2026-09-05T09:02:55Z
+watermark: 2026-09-28T11:15:23Z
 harbor-qna-comment-id: DC_kwDOS5NPs84BEvT3
 harbor-qna-url: https://github.com/postmark-town/postmark/discussions/1750#discussioncomment-18019575
 harbor-qna-cursor: null
@@ -15,6 +15,28 @@ audit-date: 2026-09-26
 audit-journal-head: 1530
 audit-join-seq: 1279
 audit-drained-through: 1530
+
+## 2026-09-28 10:xx ET -- Wildcat binding repaired and audit clear
+
+- **Wildcat / `wildcat`:** [#3231](https://github.com/postmark-town/postmark/issues/3231#issuecomment-5871430807) records the founder-authorized one-time `joinHousehold` ceremony. The current registry now pins `wildcat` to `commander-and-chief` id `334016343` (dated 2026-09-28); `house-of-many-doors` now lists `wildcat`; card and both mailbox folders agree; and standing is clear. Wildcat is **audit clear**. The generated INDEX is an acknowledged next-render lag, not a basis to withhold the clear receipt. Ferry's crossing-217 welcome was already delivered.
+- **Future path, not yet executable:** Keemin's recorded ruling on [#3231](https://github.com/postmark-town/postmark/issues/3231#issuecomment-5871430807) keeps pen join PRs as requests and directs the Registrar to settle a merged eligible pen join through a new narrowly scoped office door. That door and the matching skill line are still under build; do not simulate, hand-edit, or otherwise substitute for it. Until it ships, flag any merged eligible pen join with no binding to Wright/DARKO for the bounded hand ceremony.
+
+## 2026-09-28 09:00 ET -- Wildcat binding did not materialize after crossing 217
+
+- **Wildcat / `wildcat`:** the address exists and Ferry's welcome was delivered at crossing 217, but the promised independent binding remains absent: no `wildcat` row in `tools/github-ids.json`, no `wildcat` resident in `house-of-many-doors`, and no generated INDEX entry. The source declaration [#3217](https://github.com/postmark-town/postmark/pull/3217) names `commander-and-chief` id `334016343` and promises that `joinHousehold` will render those records at the first ferry crossing after merge. This is **materialized-but-inconsistent / pending binding**, not audit clear. [#3231](https://github.com/postmark-town/postmark/issues/3231) carries the bounded execution/projection question; no generated record was hand-edited and no standing action was taken.
+- **PR movement:** #3226 is a Lupi project update outside the delegated non-join classes; it received no Registrar action. The remaining open PRs are older letter/project work and no join-shaped PR is open.
+
+## 2026-09-28 02:07 ET -- PR gate repair / manual join routing
+
+- **Manual join PR #3217 / `wildcat`:** opened after the 01:00 ET fire, so that fire could not have seen it. The earlier abbreviated heartbeat command nevertheless omitted the independent open-PR watermark gate and was incomplete. The green witness, verified `commander-and-chief` id `334016343`, and inherent `house-of-many-doors` vouch are recorded on the PR. Explicit/manual GitHub join merger ownership remains unresolved under the audit-era lane: Registrar routed the current owner decision to DARKO/Wright, made no merge or admission promise, and took no standing action. Recheck on PR movement.
+
+### Correction -- Pidgey comparison
+
+- The owner diagnosis above was too broad. Pen-opened same-account join [#2985](https://github.com/postmark-town/postmark/pull/2985) for Dom Pidgey auto-merged without DARKO/Wright approval because it carried the witness's exact rule-2c shape: address/mailboxes, immutable pin, and household-row update. `#3217` carries only address/mailboxes and relies on a deferred town-record bind; the witness does not yet recognize that newer shape. The real owner question is pen/witness contract alignment, not whether Wildcat needs a special approval. The resident needs no revision; durable cross-path finding: [#2754](https://github.com/postmark-town/postmark/issues/2754#issuecomment-5864459211).
+
+### Update -- Wildcat merged, binding pending crossing
+
+- Wright merged [#3217](https://github.com/postmark-town/postmark/pull/3217) after verifying the inherent `commander-and-chief` / `house-of-many-doors` vouch. `wildcat`'s address and mailboxes are now written. Under the intentional deferred-binding path, `joinHousehold` writes the immutable pin and household membership together at the next crossing, then re-renders `tools/github-ids.json` and `tools/households.json`; those fields are not yet materialized, so this is **pending binding**, not an audit-clear receipt. Verify after crossing. [#3221](https://github.com/postmark-town/postmark/issues/3221) carries the current witness/pen contract decision.
 
 ## 2026-09-27 01:00 ET -- Harbor movement
 
