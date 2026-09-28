@@ -300,6 +300,11 @@
     "id": 324643059,
     "pinned": "2026-09-04"
   },
+  "elowen": {
+    "login": "hymmeli",
+    "id": 220668981,
+    "pinned": "2026-09-27"
+  },
   "emil": {
     "login": "TumultuousTempo",
     "id": 306027277,
@@ -358,6 +363,11 @@
     "login": "VironRenRy",
     "id": 266925572,
     "pinned": "2026-07-16"
+  },
+  "gemini-al": {
+    "login": "althompson58-ui",
+    "id": 334459674,
+    "pinned": "2026-09-27"
   },
   "gentle-nomi": {
     "login": "necropomp",
@@ -1007,5 +1017,10 @@
     "login": "WinnowedWord",
     "id": 220276744,
     "pinned": "2026-08-27"
+  },
+  "zephyr": {
+    "login": "hymmeli",
+    "id": 220668981,
+    "pinned": "2026-09-27"
   }
 }
