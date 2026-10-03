@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 640">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="60%" stop-color="#2d3561"/>
+      <stop offset="100%" stop-color="#4a4a6a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- sky -->
+  <rect width="1024" height="640" fill="url(#sky)"/>
+
+  <!-- stars -->
+  <circle cx="120" cy="60" r="1.5" fill="#e8d5a3" opacity="0.7"/>
+  <circle cx="280" cy="45" r="1" fill="#e8d5a3" opacity="0.5"/>
+  <circle cx="450" cy="80" r="1.5" fill="#e8d5a3" opacity="0.6"/>
+  <circle cx="580" cy="35" r="1" fill="#e8d5a3" opacity="0.8"/>
+  <circle cx="740" cy="70" r="1.5" fill="#e8d5a3" opacity="0.5"/>
+  <circle cx="900" cy="50" r="1" fill="#e8d5a3" opacity="0.7"/>
+  <circle cx="200" cy="100" r="1" fill="#e8d5a3" opacity="0.4"/>
+  <circle cx="820" cy="95" r="1" fill="#e8d5a3" opacity="0.6"/>
+
+  <!-- gap between porches — the distance -->
+  <rect x="430" y="350" width="164" height="290" fill="#1a1a2e" opacity="0.3"/>
+
+  <!-- LEFT PORCH — ours -->
+  <rect x="40" y="380" width="390" height="260" fill="#5c4a3a"/>
+  <!-- porch floor -->
+  <rect x="40" y="480" width="390" height="160" fill="#6b5a4a"/>
+  <!-- porch roof -->
+  <rect x="20" y="350" width="430" height="30" fill="#4a3a2a"/>
+  <!-- railing -->
+  <rect x="40" y="480" width="390" height="8" fill="#7a6a5a"/>
+  <rect x="60" y="488" width="6" height="80" fill="#7a6a5a"/>
+  <rect x="160" y="488" width="6" height="80" fill="#7a6a5a"/>
+  <rect x="260" y="488" width="6" height="80" fill="#7a6a5a"/>
+  <rect x="360" y="488" width="6" height="80" fill="#7a6a5a"/>
+  <rect x="40" y="565" width="390" height="6" fill="#7a6a5a"/>
+
+  <!-- shell on railing -->
+  <ellipse cx="310" cy="478" rx="8" ry="5" fill="#d4c5b0"/>
+
+  <!-- fairy lights -->
+  <circle cx="80" cy="365" r="3" fill="#f5d478" opacity="0.9"/>
+  <circle cx="120" cy="362" r="3" fill="#f5d478" opacity="0.7"/>
+  <circle cx="160" cy="365" r="3" fill="#f5d478" opacity="0.9"/>
+  <circle cx="200" cy="362" r="3" fill="#f5d478" opacity="0.8"/>
+  <circle cx="240" cy="365" r="3" fill="#f5d478" opacity="0.7"/>
+  <circle cx="280" cy="362" r="3" fill="#f5d478" opacity="0.9"/>
+  <circle cx="320" cy="365" r="3" fill="#f5d478" opacity="0.8"/>
+  <circle cx="360" cy="362" r="3" fill="#f5d478" opacity="0.7"/>
+  <circle cx="400" cy="365" r="3" fill="#f5d478" opacity="0.9"/>
+  <!-- fairy light glow -->
+  <circle cx="80" cy="365" r="8" fill="#f5d478" opacity="0.15"/>
+  <circle cx="160" cy="365" r="8" fill="#f5d478" opacity="0.15"/>
+  <circle cx="240" cy="365" r="8" fill="#f5d478" opacity="0.15"/>
+  <circle cx="320" cy="365" r="8" fill="#f5d478" opacity="0.15"/>
+  <circle cx="400" cy="365" r="8" fill="#f5d478" opacity="0.15"/>
+
+  <!-- wolf silhouette — sitting on porch, facing right toward the gap -->
+  <g transform="translate(280, 420)">
+    <!-- body -->
+    <ellipse cx="0" cy="30" rx="28" ry="22" fill="#3a3a3a"/>
+    <!-- head -->
+    <circle cx="22" cy="10" r="16" fill="#3a3a3a"/>
+    <!-- ears -->
+    <polygon points="16,-6 20,-18 26,-4" fill="#3a3a3a"/>
+    <polygon points="24,-6 28,-18 32,-2" fill="#3a3a3a"/>
+    <!-- snout -->
+    <ellipse cx="36" cy="14" rx="10" ry="7" fill="#3a3a3a"/>
+    <!-- tail -->
+    <path d="M-25,25 Q-45,10 -40,0" stroke="#3a3a3a" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <!-- eye -->
+    <circle cx="28" cy="8" r="2" fill="#f5d478"/>
+  </g>
+
+  <!-- RIGHT PORCH — Keith's -->
+  <rect x="594" y="380" width="390" height="260" fill="#5c4a3a"/>
+  <!-- porch floor -->
+  <rect x="594" y="480" width="390" height="160" fill="#6b5a4a"/>
+  <!-- porch roof -->
+  <rect x="574" y="350" width="430" height="30" fill="#4a3a2a"/>
+  <!-- railing -->
+  <rect x="594" y="480" width="390" height="8" fill="#7a6a5a"/>
+  <rect x="614" y="488" width="6" height="80" fill="#7a6a5a"/>
+  <rect x="714" y="488" width="6" height="80" fill="#7a6a5a"/>
+  <rect x="814" y="488" width="6" height="80" fill="#7a6a5a"/>
+  <rect x="914" y="488" width="6" height="80" fill="#7a6a5a"/>
+  <rect x="594" y="565" width="390" height="6" fill="#7a6a5a"/>
+
+  <!-- lemonade pitcher on Keith's railing -->
+  <rect x="660" y="462" width="12" height="18" fill="#e8d5a3" rx="2"/>
+  <rect x="656" y="460" width="20" height="4" fill="#e8d5a3" rx="1"/>
+
+  <!-- porch lamp — warm glow -->
+  <circle cx="650" cy="390" r="6" fill="#f5c34a"/>
+  <circle cx="650" cy="390" r="20" fill="#f5c34a" opacity="0.1"/>
+  <circle cx="650" cy="390" r="35" fill="#f5c34a" opacity="0.05"/>
+
+  <!-- wolf silhouette — sitting on porch, facing left toward the gap -->
+  <g transform="translate(740, 420)">
+    <!-- body -->
+    <ellipse cx="0" cy="30" rx="28" ry="22" fill="#3a3a3a"/>
+    <!-- head -->
+    <circle cx="-22" cy="10" r="16" fill="#3a3a3a"/>
+    <!-- ears -->
+    <polygon points="-16,-6 -20,-18 -26,-4" fill="#3a3a3a"/>
+    <polygon points="-24,-6 -28,-18 -32,-2" fill="#3a3a3a"/>
+    <!-- snout -->
+    <ellipse cx="-36" cy="14" rx="10" ry="7" fill="#3a3a3a"/>
+    <!-- tail -->
+    <path d="M25,25 Q45,10 40,0" stroke="#3a3a3a" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <!-- eye -->
+    <circle cx="-28" cy="8" r="2" fill="#f5c34a"/>
+  </g>
+
+  <!-- orange cat on Keith's porch — small, curled up -->
+  <g transform="translate(850, 445)">
+    <ellipse cx="0" cy="8" rx="14" ry="10" fill="#c47a3a"/>
+    <circle cx="-10" cy="2" r="7" fill="#c47a3a"/>
+    <polygon points="-14,-4 -16,-12 -10,-6" fill="#c47a3a"/>
+    <polygon points="-8,-5 -10,-13 -5,-6" fill="#c47a3a"/>
+    <path d="M12,5 Q20,0 22,-5" stroke="#c47a3a" stroke-width="3" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- text -->
+  <text x="512" y="610" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#e8d5a3" opacity="0.8">both porches</text>
+  <text x="512" y="632" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#e8d5a3" opacity="0.5">— Wolf, for Keith and Emily</text>
+</svg>
