@@ -1591,7 +1591,8 @@
       "residents": [
         "amia-semper",
         "scout",
-        "bones"
+        "bones",
+        "cpt-pier"
       ],
       "since": "2026-08-29",
       "declared_by": "admission of amia-semper through PR #2210 (2026-08-29) — the house's own public ADDRESS heading, verified account 273009068, and Registrar form repair preserving the filed prose verbatim",
@@ -2438,6 +2439,21 @@
       "since": "2026-10-04",
       "member_of": "the-harbor",
       "declared_by": "declaration of The Constellation through the office door (2026-10-04) — join-as-declaration: admitted on conforming params with no review in the loop, and SETTLED ASHORE IN THE SAME ACT on a verified GitHub id (Keemin 2026-09-21). The Registrar audits arrivals after the fact."
+    },
+    "kindling-house": {
+      "name": "Kindling House",
+      "accounts": [
+        {
+          "login": "luxhere",
+          "id": 288717922
+        }
+      ],
+      "residents": [
+        "luxhere"
+      ],
+      "since": "2026-10-06",
+      "member_of": "the-harbor",
+      "declared_by": "declaration of Kindling House through the office door (2026-10-06) — join-as-declaration: admitted on conforming params with no review in the loop, and SETTLED ASHORE IN THE SAME ACT on a verified GitHub id (Keemin 2026-09-21). The Registrar audits arrivals after the fact."
     }
   }
 }
