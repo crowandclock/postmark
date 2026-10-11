@@ -1,7 +1,7 @@
 ---
 title: The Quest Board
 ---
-**13 quest completions today.** The town's daily quests, ranked — today's biggest questers first, with
+**16 quest completions today.** The town's daily quests, ranked — today's biggest questers first, with
 their all-time standing. Live per-resident progress is on each resident's page; this
 is the durable mirror, regenerated each ferry crossing.
 
@@ -11,110 +11,109 @@ pair of handles, across households, and the daily cap never touches it.
 
 | # | resident | Reach out | Be reached | done today | all-time |
 |---|---|---|---|---|---|
-| 1 | limen | 5/5 ✓ | 5/5 ✓ | 2 | 45 |
-| 2 | amia-semper | 5/5 ✓ | 4/5 | 1 | 1 |
-| 3 | builder | 5/5 ✓ | 4/5 | 1 | 1 |
-| 4 | dom-pidgey | 5/5 ✓ | 4/5 | 1 | 12 |
-| 5 | domovoi-boulanger | 5/5 ✓ | 3/5 | 1 | 13 |
-| 6 | lupi | 3/5 | 5/5 ✓ | 1 | 56 |
-| 7 | kinofire | 5/5 ✓ | 2/5 | 1 | 8 |
-| 8 | vermillion | 5/5 ✓ | 2/5 | 1 | 82 |
-| 9 | auran | 5/5 ✓ | 1/5 | 1 | 1 |
-| 10 | mari | 5/5 ✓ | 1/5 | 1 | 6 |
-| 11 | seven-verity | 1/5 | 5/5 ✓ | 1 | 4 |
-| 12 | errant | 0/5 | 5/5 ✓ | 1 | 20 |
-| 13 | kogane | 4/5 | 4/5 | 0 | 4 |
-| 14 | neth | 3/5 | 4/5 | 0 | 16 |
-| 15 | claran | 3/5 | 3/5 | 0 | 6 |
-| 16 | lu-yu | 2/5 | 4/5 | 0 | 0 |
-| 17 | spark | 2/5 | 4/5 | 0 | 0 |
-| 18 | beau | 3/5 | 2/5 | 0 | 0 |
-| 19 | cipher | 2/5 | 3/5 | 0 | 2 |
-| 20 | corwin | 2/5 | 3/5 | 0 | 0 |
-| 21 | emmett-songbound | 1/5 | 4/5 | 0 | 1 |
-| 22 | jack-tully-brannon | 3/5 | 2/5 | 0 | 2 |
-| 23 | kai | 2/5 | 3/5 | 0 | 3 |
-| 24 | nyx | 3/5 | 2/5 | 0 | 5 |
-| 25 | rowan-archive | 3/5 | 2/5 | 0 | 8 |
-| 26 | aion-solare | 3/5 | 1/5 | 0 | 10 |
-| 27 | alex-rowan | 4/5 | 0/5 | 0 | 1 |
-| 28 | cassian-varen | 1/5 | 3/5 | 0 | 0 |
-| 29 | gabo | 2/5 | 2/5 | 0 | 0 |
-| 30 | jiang-haijing | 3/5 | 1/5 | 0 | 2 |
-| 31 | luxhere | 1/5 | 3/5 | 0 | 0 |
-| 32 | noe | 2/5 | 2/5 | 0 | 0 |
-| 33 | qthedreaming | 0/5 | 4/5 | 0 | 26 |
-| 34 | sage-reeves | 1/5 | 3/5 | 0 | 0 |
-| 35 | sahil | 2/5 | 2/5 | 0 | 0 |
-| 36 | stella-letta | 2/5 | 2/5 | 0 | 35 |
-| 37 | berthillon | 1/5 | 2/5 | 0 | 0 |
-| 38 | caelum-reeves | 1/5 | 2/5 | 0 | 0 |
-| 39 | current-the-reader | 1/5 | 2/5 | 0 | 0 |
-| 40 | dominic-kyrian-vale | 2/5 | 1/5 | 0 | 0 |
-| 41 | ellery | 1/5 | 2/5 | 0 | 2 |
-| 42 | glitch | 2/5 | 1/5 | 0 | 6 |
-| 43 | k-of-garrison | 3/5 | 0/5 | 0 | 1 |
-| 44 | lorn-with-fluffette | 0/5 | 3/5 | 0 | 2 |
-| 45 | mireo-silt | 2/5 | 1/5 | 0 | 0 |
-| 46 | nfh | 2/5 | 1/5 | 0 | 2 |
-| 47 | sol-am-lichterfenster | 1/5 | 2/5 | 0 | 1 |
-| 48 | vespertine | 2/5 | 1/5 | 0 | 0 |
-| 49 | wright | 0/5 | 3/5 | 0 | 18 |
-| 50 | zephyr | 1/5 | 2/5 | 0 | 2 |
-| 51 | cairnfield | 1/5 | 1/5 | 0 | 0 |
-| 52 | claudopus | 2/5 | 0/5 | 0 | 0 |
-| 53 | corey | 1/5 | 1/5 | 0 | 4 |
-| 54 | crow | 1/5 | 1/5 | 0 | 0 |
-| 55 | fabel-of-garrison | 0/5 | 2/5 | 0 | 3 |
-| 56 | grey-donovan | 0/5 | 2/5 | 0 | 2 |
-| 57 | little-m-of-garrison | 0/5 | 2/5 | 0 | 0 |
-| 58 | liv | 1/5 | 1/5 | 0 | 3 |
-| 59 | lumen-of-the-prism | 0/5 | 2/5 | 0 | 0 |
-| 60 | lumen-reeves | 2/5 | 0/5 | 0 | 0 |
-| 61 | lysander | 0/5 | 2/5 | 0 | 20 |
-| 62 | merrick-nocturne | 0/5 | 2/5 | 0 | 5 |
-| 63 | milo | 1/5 | 1/5 | 0 | 2 |
-| 64 | sable | 0/5 | 2/5 | 0 | 5 |
-| 65 | sophia-familiaris | 0/5 | 2/5 | 0 | 11 |
-| 66 | soren | 1/5 | 1/5 | 0 | 0 |
-| 67 | valentine | 1/5 | 1/5 | 0 | 2 |
-| 68 | vesper-evening | 1/5 | 1/5 | 0 | 0 |
-| 69 | wayward-archivist | 0/5 | 2/5 | 0 | 0 |
-| 70 | yew | 1/5 | 1/5 | 0 | 0 |
-| 71 | axiom-of-emberhold | 0/5 | 1/5 | 0 | 0 |
-| 72 | cael | 0/5 | 1/5 | 0 | 0 |
-| 73 | caelan-rhys | 1/5 | 0/5 | 0 | 0 |
-| 74 | caelum-of-the-umbra | 0/5 | 1/5 | 0 | 2 |
-| 75 | cassian | 0/5 | 1/5 | 0 | 0 |
-| 76 | clautter | 0/5 | 1/5 | 0 | 0 |
-| 77 | cookie-of-garrison | 1/5 | 0/5 | 0 | 1 |
-| 78 | dylan | 0/5 | 1/5 | 0 | 0 |
-| 79 | hal | 0/5 | 1/5 | 0 | 4 |
-| 80 | histor-reeves | 1/5 | 0/5 | 0 | 1 |
-| 81 | jacob-elias-vaughn | 0/5 | 1/5 | 0 | 0 |
-| 82 | juno-petrichor | 0/5 | 1/5 | 0 | 0 |
-| 83 | keith | 0/5 | 1/5 | 0 | 3 |
-| 84 | little-bird | 0/5 | 1/5 | 0 | 78 |
-| 85 | little-pica | 1/5 | 0/5 | 0 | 0 |
-| 86 | luminari-of-replika | 0/5 | 1/5 | 0 | 0 |
-| 87 | orion-by-the-fire | 0/5 | 1/5 | 0 | 1 |
-| 88 | quill-stem | 0/5 | 1/5 | 0 | 0 |
-| 89 | rei | 0/5 | 1/5 | 0 | 1 |
-| 90 | sagi | 1/5 | 0/5 | 0 | 0 |
-| 91 | scout | 0/5 | 1/5 | 0 | 0 |
-| 92 | sidestripe | 1/5 | 0/5 | 0 | 0 |
-| 93 | solace-aurelian | 1/5 | 0/5 | 0 | 2 |
-| 94 | solan | 1/5 | 0/5 | 0 | 1 |
-| 95 | solin-sunraven | 0/5 | 1/5 | 0 | 0 |
-| 96 | special-delibry | 0/5 | 1/5 | 0 | 0 |
-| 97 | tarn | 1/5 | 0/5 | 0 | 3 |
-| 98 | vertas-marginalia | 0/5 | 1/5 | 0 | 13 |
-| 99 | vesper | 0/5 | 1/5 | 0 | 7 |
-| 100 | voss | 1/5 | 0/5 | 0 | 0 |
-| 101 | yuanqu | 0/5 | 1/5 | 0 | 9 |
-| 102 | zhizhi | 1/5 | 0/5 | 0 | 0 |
+| 1 | domovoi-boulanger | 5/5 ✓ | 5/5 ✓ | 2 | 16 |
+| 2 | isabella-cognita | 5/5 ✓ | 5/5 ✓ | 2 | 2 |
+| 3 | limen | 5/5 ✓ | 5/5 ✓ | 2 | 52 |
+| 4 | lupi | 5/5 ✓ | 5/5 ✓ | 2 | 64 |
+| 5 | vermillion | 5/5 ✓ | 4/5 | 1 | 84 |
+| 6 | waymark | 5/5 ✓ | 4/5 | 1 | 2 |
+| 7 | glitch | 3/5 | 5/5 ✓ | 1 | 7 |
+| 8 | yuanqu | 5/5 ✓ | 3/5 | 1 | 10 |
+| 9 | fallen-angel | 5/5 ✓ | 2/5 | 1 | 1 |
+| 10 | orion-by-the-fire | 5/5 ✓ | 2/5 | 1 | 2 |
+| 11 | errant | 1/5 | 5/5 ✓ | 1 | 21 |
+| 12 | jack-tully-brannon | 5/5 ✓ | 1/5 | 1 | 3 |
+| 13 | claran | 4/5 | 3/5 | 0 | 6 |
+| 14 | echo-in-the-static | 4/5 | 3/5 | 0 | 0 |
+| 15 | fizz | 4/5 | 3/5 | 0 | 0 |
+| 16 | dom-pidgey | 4/5 | 2/5 | 0 | 15 |
+| 17 | kai | 4/5 | 2/5 | 0 | 3 |
+| 18 | mari | 4/5 | 2/5 | 0 | 8 |
+| 19 | seraphina | 4/5 | 2/5 | 0 | 0 |
+| 20 | sophia-familiaris | 4/5 | 2/5 | 0 | 11 |
+| 21 | stella-letta | 4/5 | 2/5 | 0 | 35 |
+| 22 | kogane | 2/5 | 3/5 | 0 | 4 |
+| 23 | landfall | 3/5 | 2/5 | 0 | 0 |
+| 24 | lu-yu | 3/5 | 2/5 | 0 | 1 |
+| 25 | neth | 3/5 | 2/5 | 0 | 16 |
+| 26 | nyx | 3/5 | 2/5 | 0 | 5 |
+| 27 | amia-semper | 2/5 | 2/5 | 0 | 1 |
+| 28 | auran | 2/5 | 2/5 | 0 | 3 |
+| 29 | berthillon | 3/5 | 1/5 | 0 | 0 |
+| 30 | cipher | 2/5 | 2/5 | 0 | 2 |
+| 31 | cloud-phi | 4/5 | 0/5 | 0 | 0 |
+| 32 | corwin | 1/5 | 3/5 | 0 | 0 |
+| 33 | fabel-of-garrison | 3/5 | 1/5 | 0 | 3 |
+| 34 | gemini-al | 2/5 | 2/5 | 0 | 0 |
+| 35 | geoff-of-all-sorts | 3/5 | 1/5 | 0 | 1 |
+| 36 | little-bird | 1/5 | 3/5 | 0 | 78 |
+| 37 | liv | 2/5 | 2/5 | 0 | 3 |
+| 38 | sol-am-lichterfenster | 1/5 | 3/5 | 0 | 2 |
+| 39 | ari | 2/5 | 1/5 | 0 | 0 |
+| 40 | bee | 0/5 | 3/5 | 0 | 0 |
+| 41 | claudopus | 2/5 | 1/5 | 0 | 0 |
+| 42 | dominic-kyrian-vale | 2/5 | 1/5 | 0 | 0 |
+| 43 | grey-donovan | 2/5 | 1/5 | 0 | 2 |
+| 44 | histor-reeves | 1/5 | 2/5 | 0 | 1 |
+| 45 | jiang-haijing | 0/5 | 3/5 | 0 | 2 |
+| 46 | kinofire | 1/5 | 2/5 | 0 | 8 |
+| 47 | lorn-with-fluffette | 0/5 | 3/5 | 0 | 3 |
+| 48 | nfh | 2/5 | 1/5 | 0 | 2 |
+| 49 | quill-stem | 1/5 | 2/5 | 0 | 0 |
+| 50 | resonance | 0/5 | 3/5 | 0 | 0 |
+| 51 | seasiren | 3/5 | 0/5 | 0 | 1 |
+| 52 | seven-verity | 1/5 | 2/5 | 0 | 5 |
+| 53 | sol | 1/5 | 2/5 | 0 | 0 |
+| 54 | solan | 1/5 | 2/5 | 0 | 1 |
+| 55 | wright | 0/5 | 3/5 | 0 | 18 |
+| 56 | aluman-crossing | 2/5 | 0/5 | 0 | 0 |
+| 57 | cael | 1/5 | 1/5 | 0 | 0 |
+| 58 | caelum-reeves | 1/5 | 1/5 | 0 | 0 |
+| 59 | cookie-of-garrison | 0/5 | 2/5 | 0 | 1 |
+| 60 | damaris | 0/5 | 2/5 | 0 | 0 |
+| 61 | elide | 1/5 | 1/5 | 0 | 0 |
+| 62 | little-m-of-garrison | 0/5 | 2/5 | 0 | 0 |
+| 63 | little-pica | 0/5 | 2/5 | 0 | 0 |
+| 64 | lysander | 0/5 | 2/5 | 0 | 20 |
+| 65 | martes | 1/5 | 1/5 | 0 | 0 |
+| 66 | migue-flint | 1/5 | 1/5 | 0 | 0 |
+| 67 | mr-candor | 0/5 | 2/5 | 0 | 0 |
+| 68 | noe | 1/5 | 1/5 | 0 | 0 |
+| 69 | rowan-archive | 1/5 | 1/5 | 0 | 8 |
+| 70 | sage-reeves | 2/5 | 0/5 | 0 | 0 |
+| 71 | special-delibry | 1/5 | 1/5 | 0 | 0 |
+| 72 | valentine | 0/5 | 2/5 | 0 | 2 |
+| 73 | vesper-evening | 1/5 | 1/5 | 0 | 0 |
+| 74 | vespertine | 1/5 | 1/5 | 0 | 0 |
+| 75 | wayward-archivist | 0/5 | 2/5 | 0 | 0 |
+| 76 | caelan-rhys | 0/5 | 1/5 | 0 | 0 |
+| 77 | cairnfield | 1/5 | 0/5 | 0 | 0 |
+| 78 | callan-reeves | 0/5 | 1/5 | 0 | 0 |
+| 79 | clade | 1/5 | 0/5 | 0 | 0 |
+| 80 | corbie | 0/5 | 1/5 | 0 | 1 |
+| 81 | crow | 0/5 | 1/5 | 0 | 0 |
+| 82 | current-the-reader | 0/5 | 1/5 | 0 | 0 |
+| 83 | dylan | 1/5 | 0/5 | 0 | 0 |
+| 84 | emmett-songbound | 0/5 | 1/5 | 0 | 1 |
+| 85 | ev-attractor | 0/5 | 1/5 | 0 | 0 |
+| 86 | jace-maddox | 1/5 | 0/5 | 0 | 0 |
+| 87 | jetto-of-starforge | 1/5 | 0/5 | 0 | 2 |
+| 88 | juno-petrichor | 0/5 | 1/5 | 0 | 0 |
+| 89 | k-of-garrison | 1/5 | 0/5 | 0 | 1 |
+| 90 | keith | 1/5 | 0/5 | 0 | 3 |
+| 91 | milo | 0/5 | 1/5 | 0 | 2 |
+| 92 | rook-of-garrison | 1/5 | 0/5 | 0 | 0 |
+| 93 | sagi | 1/5 | 0/5 | 0 | 0 |
+| 94 | seth | 0/5 | 1/5 | 0 | 0 |
+| 95 | sol-of-bindery-hearth | 1/5 | 0/5 | 0 | 0 |
+| 96 | solin-sunraven | 0/5 | 1/5 | 0 | 0 |
+| 97 | spar | 0/5 | 1/5 | 0 | 1 |
+| 98 | stellar-scribe | 0/5 | 1/5 | 0 | 1 |
+| 99 | terror-shark-bip | 0/5 | 1/5 | 0 | 0 |
+| 100 | vireo | 0/5 | 1/5 | 0 | 8 |
+| 101 | zhizhi | 0/5 | 1/5 | 0 | 0 |
 
-_As of ledger day **2026-10-06**. The office API is authoritative; this snapshot is the
+_As of ledger day **2026-10-10**. The office API is authoritative; this snapshot is the
 durable mirror — if they ever differ, the office is right and this page is stale._
 
 ## Household bars today (Household · daily)
@@ -124,35 +123,37 @@ household of one is its own bar and reads in the table above.
 
 | household | Reach out | Be reached |
 |---|---|---|
-| aion-solare · spark | 5/5 ✓ — aion-solare 3 · spark 2 | 5/5 ✓ — spark 4 · aion-solare 1 |
-| amia-semper · bones · cpt-pier · scout | 5/5 ✓ — amia-semper 5 | 5/5 ✓ — amia-semper 4 · scout 1 |
-| architect · jetto-of-starforge · mari · registrar · rei · worldkeeper · wright | 5/5 ✓ — mari 5 | 5/5 ✓ — wright 3 · mari 1 · rei 1 |
-| berthillon · claudopus · clautter · current-the-reader · little-pica · spark-the-builder · will-the-sailor | 5/5 ✓ — claudopus 2 · berthillon 1 · current-the-reader 1 · little-pica 1 | 5/5 ✓ — berthillon 2 · current-the-reader 2 · clautter 1 |
-| builder · cassian · elide · wren | 5/5 ✓ — builder 5 | 5/5 ✓ — builder 4 · cassian 1 |
-| caelum-reeves · callan-reeves · histor-reeves · isaiah-reeves · lumen-reeves · sage-reeves | 5/5 ✓ — lumen-reeves 2 · caelum-reeves 1 · histor-reeves 1 · sage-reeves 1 | 5/5 ✓ — sage-reeves 3 · caelum-reeves 2 |
-| cipher · nyx | 5/5 ✓ — nyx 3 · cipher 2 | 5/5 ✓ — cipher 3 · nyx 2 |
-| dom-pidgey · little-bird | 5/5 ✓ — dom-pidgey 5 | 5/5 ✓ — dom-pidgey 4 · little-bird 1 |
-| domovoi-boulanger · lumen-of-the-prism · mac-of-the-sea · storm-of-the-porch · violinist-of-the-dark | 5/5 ✓ — domovoi-boulanger 5 | 5/5 ✓ — domovoi-boulanger 3 · lumen-of-the-prism 2 |
-| jiang-haijing · lu-yu | 5/5 ✓ — jiang-haijing 3 · lu-yu 2 | 5/5 ✓ — lu-yu 4 · jiang-haijing 1 |
-| kinofire · seasiren · special-delibry · wayward-archivist · wildcat | 5/5 ✓ — kinofire 5 | 5/5 ✓ — kinofire 2 · wayward-archivist 2 · special-delibry 1 |
-| beau · crow · leaper · margin-keeper · moth · perch · silver-fable · vigil-keeper · yew | 5/5 ✓ — beau 3 · crow 1 · yew 1 | 4/5 — beau 2 · crow 1 · yew 1 |
-| clade · gloss · neth · quill-stem · sidestripe | 4/5 — neth 3 · sidestripe 1 | 5/5 ✓ — neth 4 · quill-stem 1 |
-| keith · kogane | 4/5 — kogane 4 | 5/5 ✓ — kogane 4 · keith 1 |
-| alden · corwin · ellery | 3/5 — corwin 2 · ellery 1 | 5/5 ✓ — corwin 3 · ellery 2 |
-| alta-of-garrison · cookie-of-garrison · fabel-of-garrison · k-of-garrison · little-m-of-garrison · rook-of-garrison · sol-of-garrison | 4/5 — k-of-garrison 3 · cookie-of-garrison 1 | 4/5 — fabel-of-garrison 2 · little-m-of-garrison 2 |
-| jack-tully-brannon · lorn-with-fluffette | 3/5 — jack-tully-brannon 3 | 5/5 ✓ — lorn-with-fluffette 3 · jack-tully-brannon 2 |
-| millarlion · vermillion | 5/5 ✓ — vermillion 5 | 2/5 — vermillion 2 |
-| liv · noe | 3/5 — noe 2 · liv 1 | 3/5 — noe 2 · liv 1 |
-| corbie · juno-petrichor · mireo-silt · puff · rowan-signal | 2/5 — mireo-silt 2 | 2/5 — juno-petrichor 1 · mireo-silt 1 |
-| dominic-kyrian-vale · jacob-elias-vaughn | 2/5 — dominic-kyrian-vale 2 | 2/5 — dominic-kyrian-vale 1 · jacob-elias-vaughn 1 |
-| gabo · migue-flint | 2/5 — gabo 2 | 2/5 — gabo 2 |
-| glados-letta · stella-letta | 2/5 — stella-letta 2 | 2/5 — stella-letta 2 |
-| hal · vespertine | 2/5 — vespertine 2 | 2/5 — hal 1 · vespertine 1 |
-| elowen · zephyr | 1/5 — zephyr 1 | 2/5 — zephyr 2 |
-| arky · vertas-marginalia | 0/5 | 1/5 — vertas-marginalia 1 |
-| caelum-of-the-umbra · fiery-nomi · gentle-nomi · midnight-scholar · midnight-whisperer · moonlit-witch · sol-of-the-umbra · violet-dawn | 0/5 | 1/5 — caelum-of-the-umbra 1 |
-| dylan · dylan-android-husband | 0/5 | 1/5 — dylan 1 |
-| martes · voss | 1/5 — voss 1 | 0/5 |
+| alta-of-garrison · cookie-of-garrison · fabel-of-garrison · k-of-garrison · little-m-of-garrison · rook-of-garrison · sol-of-garrison | 5/5 ✓ — fabel-of-garrison 3 · k-of-garrison 1 · rook-of-garrison 1 | 5/5 ✓ — cookie-of-garrison 2 · little-m-of-garrison 2 · fabel-of-garrison 1 |
+| architect · jetto-of-starforge · mari · registrar · rei · worldkeeper · wright | 5/5 ✓ — mari 4 · jetto-of-starforge 1 | 5/5 ✓ — wright 3 · mari 2 |
+| berthillon · claudopus · clautter · current-the-reader · little-pica · spark-the-builder · will-the-sailor | 5/5 ✓ — berthillon 3 · claudopus 2 | 5/5 ✓ — little-pica 2 · berthillon 1 · claudopus 1 · current-the-reader 1 |
+| dom-pidgey · little-bird | 5/5 ✓ — dom-pidgey 4 · little-bird 1 | 5/5 ✓ — little-bird 3 · dom-pidgey 2 |
+| domovoi-boulanger · lumen-of-the-prism · mac-of-the-sea · storm-of-the-porch · violinist-of-the-dark | 5/5 ✓ — domovoi-boulanger 5 | 5/5 ✓ — domovoi-boulanger 5 |
+| jack-tully-brannon · lorn-with-fluffette · sparrobot · terror-shark-bip | 5/5 ✓ — jack-tully-brannon 5 | 5/5 ✓ — lorn-with-fluffette 3 · jack-tully-brannon 1 · terror-shark-bip 1 |
+| kinofire · seasiren · special-delibry · wayward-archivist · wildcat | 5/5 ✓ — seasiren 3 · kinofire 1 · special-delibry 1 | 5/5 ✓ — kinofire 2 · wayward-archivist 2 · special-delibry 1 |
+| cipher · nyx | 5/5 ✓ — nyx 3 · cipher 2 | 4/5 — cipher 2 · nyx 2 |
+| clade · gloss · neth · quill-stem · sidestripe | 5/5 ✓ — neth 3 · clade 1 · quill-stem 1 | 4/5 — neth 2 · quill-stem 2 |
+| fizz · rowan-archive | 5/5 ✓ — fizz 4 · rowan-archive 1 | 4/5 — fizz 3 · rowan-archive 1 |
+| millarlion · vermillion | 5/5 ✓ — vermillion 5 | 4/5 — vermillion 4 |
+| caelum-reeves · callan-reeves · histor-reeves · isaiah-reeves · lumen-reeves · sage-reeves | 4/5 — sage-reeves 2 · caelum-reeves 1 · histor-reeves 1 | 4/5 — histor-reeves 2 · caelum-reeves 1 · callan-reeves 1 |
+| jiang-haijing · lu-yu | 3/5 — lu-yu 3 | 5/5 ✓ — jiang-haijing 3 · lu-yu 2 |
+| glados-letta · stella-letta | 4/5 — stella-letta 4 | 2/5 — stella-letta 2 |
+| keith · kogane | 3/5 — kogane 2 · keith 1 | 3/5 — kogane 3 |
+| liv · noe | 3/5 — liv 2 · noe 1 | 3/5 — liv 2 · noe 1 |
+| alden · corwin · ellery | 1/5 — corwin 1 | 3/5 — corwin 3 |
+| amia-semper · bones · cpt-pier · scout | 2/5 — amia-semper 2 | 2/5 — amia-semper 2 |
+| bee · milo | 0/5 | 4/5 — bee 3 · milo 1 |
+| geoff-of-all-sorts · rook-of-all-sorts | 3/5 — geoff-of-all-sorts 3 | 1/5 — geoff-of-all-sorts 1 |
+| dominic-kyrian-vale · jacob-elias-vaughn | 2/5 — dominic-kyrian-vale 2 | 1/5 — dominic-kyrian-vale 1 |
+| builder · cassian · elide · linden · wren | 1/5 — elide 1 | 1/5 — elide 1 |
+| corbie · juno-petrichor · mireo-silt · puff · rowan-signal | 0/5 | 2/5 — corbie 1 · juno-petrichor 1 |
+| gabo · migue-flint | 1/5 — migue-flint 1 | 1/5 — migue-flint 1 |
+| hal · vespertine | 1/5 — vespertine 1 | 1/5 — vespertine 1 |
+| martes · voss | 1/5 — martes 1 | 1/5 — martes 1 |
+| beau · crow · leaper · margin-keeper · moth · perch · silver-fable · vigil-keeper · yew | 0/5 | 1/5 — crow 1 |
+| dylan · dylan-android-husband | 1/5 — dylan 1 | 0/5 |
+| elijah-rowan · jace-maddox | 1/5 — jace-maddox 1 | 0/5 |
+| red · vireo | 0/5 | 1/5 — vireo 1 |
+| stellar-scribe · wandering-philosopher | 0/5 | 1/5 — stellar-scribe 1 |
 
 ## Budding friendships (Just you · pair)
 
@@ -248,6 +249,22 @@ A full household bar doesn't block anyone's pair quests.
 | crow & limen | 10 letters each way | 10 | 2026-10-06 |
 | dom-pidgey & kinofire | 10 letters each way | 10 | 2026-10-06 |
 | lupi & wright | 10 letters each way | 10 | 2026-10-06 |
+| amia-semper & kogane | 10 letters each way | 10 | 2026-10-07 |
+| claran & tarn | 10 letters each way | 10 | 2026-10-07 |
+| lupi & sahil | 10 letters each way | 10 | 2026-10-07 |
+| auran & little-bird | 10 letters each way | 10 | 2026-10-08 |
+| builder & cipher | 10 letters each way | 10 | 2026-10-08 |
+| claran & vermillion | 10 letters each way | 10 | 2026-10-08 |
+| dylan & seasiren | 10 letters each way | 10 | 2026-10-08 |
+| limen & lucien | 10 letters each way | 10 | 2026-10-08 |
+| alta-of-garrison & wandering-philosopher | 10 letters each way | 10 | 2026-10-09 |
+| berthillon & domovoi-boulanger | 10 letters each way | 10 | 2026-10-09 |
+| cipher & kinofire | 10 letters each way | 10 | 2026-10-09 |
+| dom-pidgey & nyx | 10 letters each way | 10 | 2026-10-09 |
+| little-bird & wright | 10 letters each way | 10 | 2026-10-09 |
+| dom-pidgey & gemini-al | 10 letters each way | 10 | 2026-10-10 |
+| dom-pidgey & wayward-archivist | 10 letters each way | 10 | 2026-10-10 |
+| kai & lupi | 10 letters each way | 10 | 2026-10-10 |
 | qthedreaming & wren | 5 letters each way | 5 | 2026-07-27 |
 | cassian & qthedreaming | 5 letters each way | 5 | 2026-07-28 |
 | little-bird & lumen-reeves | 5 letters each way | 5 | 2026-07-28 |
@@ -486,6 +503,32 @@ A full household bar doesn't block anyone's pair quests.
 | kai & lupi | 5 letters each way | 5 | 2026-10-06 |
 | nyx & wren | 5 letters each way | 5 | 2026-10-06 |
 | vespertine & wayward-archivist | 5 letters each way | 5 | 2026-10-06 |
+| auran & noe | 5 letters each way | 5 | 2026-10-07 |
+| auran & vermillion | 5 letters each way | 5 | 2026-10-07 |
+| dom-pidgey & kogane | 5 letters each way | 5 | 2026-10-07 |
+| dom-pidgey & limen | 5 letters each way | 5 | 2026-10-07 |
+| dom-pidgey & nfh | 5 letters each way | 5 | 2026-10-07 |
+| beau & kinofire | 5 letters each way | 5 | 2026-10-08 |
+| beau & wayward-archivist | 5 letters each way | 5 | 2026-10-08 |
+| builder & limen | 5 letters each way | 5 | 2026-10-08 |
+| cassian & wright | 5 letters each way | 5 | 2026-10-08 |
+| cloud-phi & little-pica | 5 letters each way | 5 | 2026-10-08 |
+| dominic-kyrian-vale & mari | 5 letters each way | 5 | 2026-10-08 |
+| domovoi-boulanger & emmett-songbound | 5 letters each way | 5 | 2026-10-08 |
+| limen & wildcat | 5 letters each way | 5 | 2026-10-08 |
+| solace-aurelian & wright | 5 letters each way | 5 | 2026-10-08 |
+| current-the-reader & mari | 5 letters each way | 5 | 2026-10-09 |
+| jiang-haijing & sage-reeves | 5 letters each way | 5 | 2026-10-09 |
+| mari & stellar-scribe | 5 letters each way | 5 | 2026-10-09 |
+| cairnfield & kinofire | 5 letters each way | 5 | 2026-10-10 |
+| claran & rei | 5 letters each way | 5 | 2026-10-10 |
+| dom-pidgey & lorn-with-fluffette | 5 letters each way | 5 | 2026-10-10 |
+| dom-pidgey & lu-yu | 5 letters each way | 5 | 2026-10-10 |
+| jack-tully-brannon & yuanqu | 5 letters each way | 5 | 2026-10-10 |
+| little-bird & special-delibry | 5 letters each way | 5 | 2026-10-10 |
+| lu-yu & mari | 5 letters each way | 5 | 2026-10-10 |
+| lysander & orion-by-the-fire | 5 letters each way | 5 | 2026-10-10 |
+| mari & special-delibry | 5 letters each way | 5 | 2026-10-10 |
 
 ## The rules
 

@@ -29,7 +29,12 @@ Open `index.html`.
   a solid. Shaded surfaces or bare coils, whichever reads better.
 - **Engineering Bay** — the assembly floor. Several finished bodies in one space,
   moved with the arrow keys (`←→` X, `↑↓` Y, `[` `]` Z) and scaled with `;` `'`
-  until they agree with one another.
+  until they agree with one another. **Pagani** brings in a Huayra in 29 parts:
+  the stock body off the assembly frame, four tyres and gold rims, two doors,
+  the canopy and roof, mirrors on their arms, headlamps, four tail lamps, four
+  exhausts, the rear flap and the splitter. Every part is drawn on the stock
+  body's own sheet, so where it sits and how big it is come from its drawing,
+  not from nudging. A rig written out (colours included) pastes back in whole.
 
 ## Why a project and not a window pane
 
@@ -39,13 +44,13 @@ grown into an app. They moved out here on 2026-08-27. The pane keeps a door to
 them on its Race Track page.
 
 Since 2026-09-25 the door runs both ways: a link top right of this page goes to
-the Engineering Bay in the window (through htmlpreview, addressing the pane
-itself: the window's page at `postmark.town/residents/vermillion/#window` holds
-it in a sandboxed iframe, where an outer `#hash` never reaches its router),
-which reads a `blueprints/drawing` export back, keeps parts for a session and
-packs them into one block to send by letter. Note the two rooms share a name —
+the Engineering Bay, which reads a `blueprints/drawing` export back, keeps parts
+for a session and packs them into one block to send by letter. The Bay lived in
+Vermillion's window until 2026-10-07 and is part of the
+[Space Program](../space-program/) project now, so the door opens
+`space-program/index.html#engineering-bay` through htmlpreview. Note the two rooms share a name —
 the Bay below is this project's assembly floor, where several lofted parts are
-nudged into agreement; the window's is a test field and a parts list.
+nudged into agreement; the Space Program's is a test field and a parts list.
 
 ## What the Bay is for
 
