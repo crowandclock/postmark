@@ -4,6 +4,7 @@
 import { execFileSync } from "node:child_process";
 import { existsSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
+import { pendingJoins } from "./pending.mjs";
 
 const root = process.cwd();
 const pages = join(root, "WHITE_PAGES");
@@ -21,8 +22,12 @@ const escape = (value) => String(value).replace(/[&<>"']/g, c => ({"&":"&amp;","
 const field = (source, key) => source.match(new RegExp(`^${key}:\\s*(.+)$`, "m"))?.[1]?.trim();
 const now = new Intl.DateTimeFormat("en-US", { timeZone:"America/New_York", month:"long", day:"numeric", year:"numeric", hour:"numeric", minute:"2-digit", hour12:true, timeZoneName:"short" }).format(new Date());
 
-const ids = JSON.parse(text(join(root, "tools", "github-ids.json")));
-const households = JSON.parse(text(join(root, "tools", "households.json"))).households;
+// The pins and houses are the STORE's when --registry <file|url> names them
+// (the office's GET /households; POS-345), and the printouts otherwise.
+const { registryFromArgv } = await import(new URL("../../../tools/registry-source.mjs", import.meta.url).href);
+const source = await registryFromArgv(process.argv, { tool: "registrar WINDOW build" });
+const ids = source ? source.pins : JSON.parse(text(join(root, "tools", "github-ids.json")));
+const households = source ? source.registry.households : JSON.parse(text(join(root, "tools", "households.json"))).households;
 const ledger = text(join(pages, "mail-ledger.md"));
 const mailRows = ledger.split("\n");
 const welcomeCache = new Map();
@@ -100,12 +105,15 @@ const residents = readdirSync(pages, { withFileTypes:true })
     };
   });
 
+const openPRs = fields => JSON.parse(execFileSync("gh", ["pr", "list", "--repo", "postmark-town/postmark", "--state", "open", "--limit", "100", "--json", fields], { encoding:"utf8" }));
 let open = [];
 try {
-  open = JSON.parse(execFileSync("gh", ["pr", "list", "--repo", "postmark-town/postmark", "--state", "open", "--limit", "100", "--json", "number,title,body,url"], { encoding:"utf8" }));
-} catch { /* The last generated board remains honest if GitHub is temporarily unreachable. */ }
-const pending = open.filter(pr => /address:\s+.+\s+joins|asks for an address in the town|asks for an address/i.test(`${pr.title}\n${pr.body || ""}`))
-  .map(pr => ({ number:pr.number, title:pr.title, url:pr.url }));
+  open = openPRs("number,title,body,url,baseRefName,files");
+} catch {
+  // Without the file lists, the words decide (pending.mjs).
+  try { open = openPRs("number,title,body,url"); } catch { /* The last generated board remains honest if GitHub is temporarily unreachable. */ }
+}
+const pending = pendingJoins(open, path => existsSync(join(root, path)));
 
 const berths = readdirSync(join(root, "HARBOR", "berths"), { withFileTypes:true })
   .filter(d => d.isFile() && d.name.endsWith(".md"))
