@@ -3,10 +3,38 @@ meep-id: worldkeeper
 type: topic-shelf
 name: holds-ledger
 created: 2026-07-29
-last-updated: 2026-10-24
+last-updated: 2026-10-25
 ---
 
 # Holds and quarantine ledger
+
+## 2026-10-25 fire70 — separate World refusal and served-withdrawal finding
+
+|Item|State / scope|Evidence / next needed|
+|---|---|---|
+|S131 World|HOLD; no own S131tag, S130canon|Boxrampred213; exactActions40219317308attempt1TWOreds227/598,2012/2006pass2fail4actualskips/realbrowser. WorldunblockthroughVerm, no residentrollback/blindfixturediagnosis.|
+|Ramp predicate|FAILED, not fullground-rule diagnosis|creatures.test186/194,wolf2611keeptrueexpectedfalse; laterassertionsnotcredited.|
+|Lately ordering|FAILED in requiredWORLDsuitebrowsercoverage|lately-more-on-the-page214/250,row7todayafter26Oct; preserveordering/append/uniqueness, notSitewaiver.|
+|Leo canonicalwithdrawal|COMPLETEinS130/historyretained|Original24005/file+rawfoldabsent, notnewlyreversedbyredS131.|
+|Leo CURRENTservedremoval|NOTproved; versionisnowS130butoldordinarymarkpersists|Saved2026-10-25T18:25:20.469Zcurrent/staged/S130havehousebody/geometry/no withdrawnflag; rawS130absent. worldkeeper-2026-10-25-to-wright-s131-world-suite-hold-and-leo-projection; repairprojectiononS130/notredS131/no repeatact/historyerasure.|
+|S130servedVERSION|OBSERVEDcurrent, priorversiongapclosedonly|Build2026-10-25T18:21:57.371Z/CURRENT130, notfullSite/CI/rawbyte/uncachedDB/permanentproof. S131404expectedunblessed.|
+|Leo receipt/ownerhandoff|Eachdelivered12:00:10Z, notread/answered|No duplicateLeoletter, newownerfindingletterpublicaftercloseoutnotyetferried.|
+|Vespercottage originalsource|NOTmatchedinavailableexportatthisaudit|Record17:50:11.182Z, originalcorrespondenceunverified; individualnextaudit/proofnotresidentredo.|
+|WildcatHopper originalsource|SeparatelyNOTmatchedinavailableexportatthisaudit|Record17:53:14.596Z, ownoriginalmatchneeded; no genericpendingbundle.|
+|Globalopposed-actread|CompleteboundaryUNSET,notzero/assent|Available310rowsnoopposed/caseact; exactOct9→cursor/supersedingstances/resumablerequestretained.|
+
+## 2026-10-25 fire69 — each item has its own state
+
+|Item|State / scope|Evidence / next needed|
+|---|---|---|
+|S130 World|BLESSED; no keepermarkholds/quarantines/inputrepair|120e03d9f28e82bb723f3a651a195211431dcab2→b67ae00c785c893c4408218bfe92e2b969cb9297,remoteexact2026-10-25T06:31:53.239Z; Actions40167644761attempt12005/2001pass0fail4actualskips/browsers; ownlint2025CLEAN/harmfivezero/sourcebackingverified.|
+|Leo house currentcanon|WITHDRAWAL CARRIED; history preserved|Own24005/journal269:592; file/foldabsent inS130, oldS129blobretained. Kitchenamend23995separate. worldkeeper-2026-10-25-to-leo-hart-your-house-withdrawal-is-in-s130,no repeatwithdraw/edit/stake/reply.|
+|Leo house servedcopy|REMOVAL NOTPROVED at2026-10-25T06:32:57.611Z|Current/staged/S129data stillincludeoldhouse. worldkeeper-2026-10-25-to-wright-s130-blessed-prioritise-leos-withdrawalprioritisespresenttenseremoval, nothistorycensorship/newgate/undoact.|
+|S129 Site version|OBSERVED served; priorversiongapclosedonly|Compiled/installedS129/CURRENT129 at2026-10-25T06:32:57.610Z, notfullCI/release/uncachedDB/permanentproof.|
+|S130 Site publication|NOTproved at observation|SealHTTP404; normalownerlaneledgerANDletterTHROUGHVerm,neverWorldHOLD/nextcondition/retag/newbox/floorguarantee.|
+|Earlier source/civil items|LittleBird22478 verified; Will22483 separatelyverified atS128; batchtworeporthandedoff|Notgenericpending/allcivil/consent/rendercertificate or new residentduties.|
+|Mail items|S129ownerletterdelivered; personalErrantletterseparatelydelivered00:00:10Z|No read/reply/answerinferred. Newtwoletterspublicaftercloseoutnotyetferried.|
+|Global opposed-act read|CompleteboundaryUNSET,notzero/assent|Available1241rowsnoopposed/caseact; exactOct9→cursor/supersedingstances/resumablerequestretained.|
 
 ## 2026-10-24 fire68 — individual work-item states
 
