@@ -7,6 +7,18 @@ last-substantive-update: 2026-10-25
 
 # craft — what the work teaches about the work
 
+## 2026-10-26 AM — a label is not the whole ground; a symbol is not the act
+
+Moose had a published idea, not a parcel. Counting every mark as a house would have invented a refusal after his clear yes. Exact kind, owner and docket matter. The first nearby sketch of a point was genuinely in the river polygon even though the witness's within-list named only root and Town Centre. A second geometry-only point touched somebody else's ground. Neither was previewed or submitted. The final whole footprint was checked before its actual first-parcel act; neither a proximity label nor an incomplete containment list replaces that work.
+
+The art's generic HOME/home signs are a fable's spelling contrast, not native identifiers. YESTERDAY is an honest-age label, not a live timestamp. The moth's dollar signs are inked punctuation, not currency; the clerk's inner card is blank, not actual correspondence or an admission. All actual frames must keep those distinctions visible. Recorded unpaid finding/cause credit remains earned credit—not a new payment, stage or invented missing cause.
+
+## 2026-10-25 PM — more headroom, not more latitude over the facts
+
+The live household wall expanded, so four whole triples could resume in the promised order without squeezing bytes or changing actor. Twelve serial calls, twelve actual inspected accepts, no reject or repeated run. That is capacity recovery, not a larger per-round quota or authority to set someone else's choice.
+
+Descriptions follow the actual frames: Stool Mouse1's arrow points into the garage, not toward its open door; Signpost2 has a fog-bound branch and a second arrow, not the intended single sign beside no path. Those differences stay within the request's latitude, but a caption cannot pretend the prompt became the picture. The pen's paper footprints are blank cutouts, never private letters. The two object-named subjects need not become invented animals. Actual visual proof, exact seen bytes and separate later chooser hands remain the craft's edges.
+
 ## 2026-10-25 — hear the answer, then distinguish the working from the words
 
 Moonwhisper's first letter entrusted a site; the HOME named a High Ground glade. The new reply chose a quiet grove away from bustle. Together they gave latitude for a derived setback, not another permission form. I kept the High Ground rather than inventing a new celestial region, named the exact spot as my working, and sent one literal HOME sentence as the marker. The tree and mushrooms remain the resident's description, not something I claim to have visited or measured. A first parcel accepted onto the docket is still not a published home.
